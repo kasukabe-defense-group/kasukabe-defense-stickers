@@ -2679,6 +2679,118 @@
         "netflix"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "fish-face-stare",
+      "pack": "reactions",
+      "name": "Fish Face Stare",
+      "file": "packs/reactions/fish-face-stare.webp",
+      "type": "webp",
+      "tags": [
+        "fish",
+        "funny",
+        "closeup",
+        "weird",
+        "stare",
+        "animal"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "guy-lying-down-wave",
+      "pack": "reactions",
+      "name": "Guy Lying Down Wave",
+      "file": "packs/reactions/guy-lying-down-wave.webp",
+      "type": "webp",
+      "tags": [
+        "guy",
+        "lying down",
+        "wave",
+        "outdoor",
+        "funny",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-creepy-smile",
+      "pack": "reactions",
+      "name": "Kid Creepy Smile",
+      "file": "packs/reactions/kid-creepy-smile.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "smile",
+        "creepy",
+        "cute",
+        "meme",
+        "viral"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "two-men-laughing-night",
+      "pack": "reactions",
+      "name": "Two Men Laughing Night",
+      "file": "packs/reactions/two-men-laughing-night.webp",
+      "type": "webp",
+      "tags": [
+        "laughing",
+        "friends",
+        "night",
+        "funny",
+        "celebration",
+        "guys"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "doge-so-smart",
+      "pack": "praise",
+      "name": "Doge So Smart",
+      "file": "packs/praise/doge-so-smart.webp",
+      "type": "webp",
+      "tags": [
+        "doge",
+        "smart",
+        "intelligent",
+        "iq",
+        "meme",
+        "praise"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "guy-laughing-gucci",
+      "pack": "reactions",
+      "name": "Guy Laughing Gucci",
+      "file": "packs/reactions/guy-laughing-gucci.webp",
+      "type": "webp",
+      "tags": [
+        "laughing",
+        "guy",
+        "funny",
+        "viral",
+        "gucci",
+        "happy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-shocked-face",
+      "pack": "reactions",
+      "name": "Baby Shocked Face",
+      "file": "packs/reactions/baby-shocked-face.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "shocked",
+        "surprised",
+        "cute",
+        "wide eyes",
+        "face"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
