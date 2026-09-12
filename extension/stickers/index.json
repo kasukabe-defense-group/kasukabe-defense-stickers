@@ -3414,6 +3414,150 @@
         "callout"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "chup-raho-tum",
+      "pack": "roast",
+      "name": "Chup Raho Tum",
+      "file": "packs/roast/chup-raho-tum.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "scolding",
+        "shut up",
+        "movie",
+        "sarcasm",
+        "angry"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "man-shock-crowd-react",
+      "pack": "reactions",
+      "name": "Man Shock Crowd React",
+      "file": "packs/reactions/man-shock-crowd-react.webp",
+      "type": "webp",
+      "tags": [
+        "shocked",
+        "excited",
+        "crowd",
+        "reaction",
+        "funny",
+        "screaming"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mickey-minnie-flirt",
+      "pack": "praise",
+      "name": "Mickey Minnie Flirt",
+      "file": "packs/praise/mickey-minnie-flirt.webp",
+      "type": "webp",
+      "tags": [
+        "mickey mouse",
+        "minnie",
+        "disney",
+        "flirt",
+        "cute",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blue-smoke-silhouette",
+      "pack": "reactions",
+      "name": "Blue Smoke Silhouette",
+      "file": "packs/reactions/blue-smoke-silhouette.webp",
+      "type": "webp",
+      "tags": [
+        "blue",
+        "smoke",
+        "silhouette",
+        "mysterious",
+        "cartoon",
+        "eyes"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "monkey-on-phone",
+      "pack": "reactions",
+      "name": "Monkey On Phone",
+      "file": "packs/reactions/monkey-on-phone.webp",
+      "type": "webp",
+      "tags": [
+        "monkey",
+        "phone",
+        "call",
+        "funny",
+        "animal",
+        "red"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-smile-kitchen",
+      "pack": "reactions",
+      "name": "Kid Smile Kitchen",
+      "file": "packs/reactions/kid-smile-kitchen.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "smile",
+        "cute",
+        "kitchen",
+        "happy",
+        "family"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "couple-faces-close-bw",
+      "pack": "praise",
+      "name": "Couple Faces Close Bw",
+      "file": "packs/praise/couple-faces-close-bw.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "romantic",
+        "intimate",
+        "black and white",
+        "close",
+        "love"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "rocko-heart-eyes",
+      "pack": "praise",
+      "name": "Rocko Heart Eyes",
+      "file": "packs/praise/rocko-heart-eyes.webp",
+      "type": "webp",
+      "tags": [
+        "rocko",
+        "cartoon",
+        "heart eyes",
+        "love",
+        "funny",
+        "tv show"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "white-cat-green-eyes",
+      "pack": "reactions",
+      "name": "White Cat Green Eyes",
+      "file": "packs/reactions/white-cat-green-eyes.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "white cat",
+        "green eyes",
+        "cute",
+        "curious",
+        "closeup"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
