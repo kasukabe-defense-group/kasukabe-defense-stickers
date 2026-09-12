@@ -3974,6 +3974,150 @@
         "swag"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "pepe-pumpkin-hath-jod",
+      "pack": "reactions",
+      "name": "Pepe Pumpkin Hath Jod",
+      "file": "packs/reactions/pepe-pumpkin-hath-jod.webp",
+      "type": "webp",
+      "tags": [
+        "pepe",
+        "pumpkin",
+        "hindi",
+        "pleading",
+        "funny",
+        "halloween"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "oho-heart-sunglasses-man",
+      "pack": "reactions",
+      "name": "Oho Heart Sunglasses Man",
+      "file": "packs/reactions/oho-heart-sunglasses-man.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "oho",
+        "hearts",
+        "sunglasses",
+        "funny",
+        "love"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "man-side-eye-glitch",
+      "pack": "reactions",
+      "name": "Man Side Eye Glitch",
+      "file": "packs/reactions/man-side-eye-glitch.webp",
+      "type": "webp",
+      "tags": [
+        "side eye",
+        "suspicious",
+        "glitch",
+        "stare",
+        "funny",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cartoon-mouse-lamp",
+      "pack": "reactions",
+      "name": "Cartoon Mouse Lamp",
+      "file": "packs/reactions/cartoon-mouse-lamp.webp",
+      "type": "webp",
+      "tags": [
+        "cartoon",
+        "mouse",
+        "disney",
+        "classic",
+        "cute",
+        "lamp"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "porpoise-face-closeup",
+      "pack": "reactions",
+      "name": "Porpoise Face Closeup",
+      "file": "packs/reactions/porpoise-face-closeup.webp",
+      "type": "webp",
+      "tags": [
+        "dolphin",
+        "porpoise",
+        "cute",
+        "animal",
+        "round",
+        "closeup"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bollywood-actress-exaggerated",
+      "pack": "roast",
+      "name": "Bollywood Actress Exaggerated",
+      "file": "packs/roast/bollywood-actress-exaggerated.webp",
+      "type": "webp",
+      "tags": [
+        "bollywood",
+        "hindi",
+        "movie",
+        "exaggerated",
+        "funny",
+        "expression"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cute-cartoon-snake",
+      "pack": "reactions",
+      "name": "Cute Cartoon Snake",
+      "file": "packs/reactions/cute-cartoon-snake.webp",
+      "type": "webp",
+      "tags": [
+        "snake",
+        "cute",
+        "cartoon",
+        "green",
+        "animal",
+        "simple"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "classic-cartoon-cat-crates",
+      "pack": "reactions",
+      "name": "Classic Cartoon Cat Crates",
+      "file": "packs/reactions/classic-cartoon-cat-crates.webp",
+      "type": "webp",
+      "tags": [
+        "cartoon",
+        "cat",
+        "classic",
+        "vintage",
+        "sitting",
+        "animation"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "zindagi-ki-yehi-reet-hai",
+      "pack": "roast",
+      "name": "Zindagi Ki Yehi Reet Hai",
+      "file": "packs/roast/zindagi-ki-yehi-reet-hai.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "sad",
+        "profanity",
+        "life",
+        "crying",
+        "meme"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
