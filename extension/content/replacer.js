@@ -10,15 +10,17 @@
   let mo = null;
   let root = null;
 
-  function buildSticker(pack, id) {
+  function buildSticker(pack, id, container) {
     const wrap = document.createElement("span");
     wrap.className = "kds-sticker";
     wrap.dataset.kdsKey = `${pack}/${id}`;
 
     const st = NS.library.resolve(pack, id);
-    if (st) { fillImage(wrap, st); return wrap; }
+    if (st) { fillImage(wrap, st, container); return wrap; }
 
-    // library not ready yet - show a placeholder, retry once it loads
+    // library not ready yet - show a placeholder, retry once it loads.
+    // Deliberately leaves any link-fallback text/link alone in this case -
+    // if we can't show the sticker, the link is the fallback, per spec.
     wrap.classList.add("kds-missing");
     wrap.textContent = `[sticker: ${pack}/${id}]`;
     NS.library.load().then(() => {
@@ -26,13 +28,13 @@
       if (s2 && wrap.isConnected) {
         wrap.textContent = "";
         wrap.classList.remove("kds-missing");
-        fillImage(wrap, s2);
+        fillImage(wrap, s2, container);
       }
     });
     return wrap;
   }
 
-  function fillImage(wrap, st) {
+  function fillImage(wrap, st, container) {
     const img = document.createElement("img");
     img.className = "kds-sticker-img";
     img.alt = st.name || st.id;
@@ -46,6 +48,41 @@
     });
     wrap.appendChild(img);
     NS.library.displayUrl(st).then((u) => { img.src = u; });
+    // The sticker rendered successfully - the link-fallback text is now
+    // redundant. Google Meet auto-linkifies plain URLs into their own <a>
+    // element before we ever see the message, so cleaning up leftover PLAIN
+    // TEXT (below) isn't enough on its own - also hunt down and hide an <a>
+    // Meet may have already built for this exact sticker's URL.
+    hideLeftoverLink(container, st);
+  }
+
+  // Enforce: sticker visible -> no link. Sticker not visible -> link stays
+  // (handled by simply not calling this in the unresolved-placeholder case).
+  function hideLeftoverLink(container, st) {
+    if (!container || !st || !st.file) return;
+    const needle = st.file; // e.g. "packs/praise/jhakaas.jpg" - unique per sticker
+    const scopes = [container, container.parentElement].filter(Boolean);
+    for (const scope of scopes) {
+      if (!scope.querySelectorAll) continue;
+      // Case A: Meet turned the URL into its own <a> element.
+      const links = scope.querySelectorAll("a[href]:not([data-kds-hidden-link])");
+      for (const a of links) {
+        let href = a.getAttribute("href") || "";
+        try { href = decodeURIComponent(href); } catch (e) {}
+        if (href.indexOf(needle) !== -1) {
+          a.style.display = "none";
+          a.setAttribute("data-kds-hidden-link", "1");
+          return;
+        }
+      }
+      // Case B: the URL is still plain text, but in a sibling text node
+      // rather than trailing the marker in the same one.
+      for (const child of Array.from(scope.childNodes)) {
+        if (child.nodeType === Node.TEXT_NODE && child.nodeValue && child.nodeValue.indexOf(needle) !== -1) {
+          child.nodeValue = child.nodeValue.replace(/\s*https?:\/\/\S*/i, "");
+        }
+      }
+    }
   }
 
   function processTextNode(tn) {
@@ -54,21 +91,24 @@
     if (!text || text.indexOf(TOKEN) === -1) return;
     if (tn.parentNode.classList && tn.parentNode.classList.contains("kds-sticker")) return;
 
+    const container = tn.parentNode; // capture before we replace tn below
     const re = NS.marker.RE();
     let m, last = 0, any = false;
     const frag = document.createDocumentFragment();
     while ((m = re.exec(text))) {
       any = true;
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
-      frag.appendChild(buildSticker(m[1].toLowerCase(), m[2].toLowerCase()));
+      frag.appendChild(buildSticker(m[1].toLowerCase(), m[2].toLowerCase(), container));
       last = m.index + m[0].length;
-      // swallow " <image url>" appended by the link fallback
+      // swallow " <image url>" appended by the link fallback, when it's still
+      // plain text right here (the common case; see hideLeftoverLink for the
+      // case where Meet already turned it into a separate <a> element)
       const um = text.slice(last).match(/^\s+https?:\/\/[^\s]+\.(?:svg|png|gif|webp|jpg|jpeg)(\?[^\s]*)?/i);
       if (um) last += um[0].length;
     }
     if (!any) return;
     if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
-    tn.parentNode.replaceChild(frag, tn);
+    container.replaceChild(frag, tn);
   }
 
   function scanSubtree(node) {
