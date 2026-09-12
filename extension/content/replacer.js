@@ -111,6 +111,32 @@
     container.replaceChild(frag, tn);
   }
 
+  // Reverse direction of hideLeftoverLink: a link Meet builds AFTER our
+  // sticker already rendered (a separate/later mutation) never gets a chance
+  // to be found by the "sticker resolved -> hunt for its link" check, because
+  // that check only ever runs at the moment the sticker itself is built. So
+  // also check the other way: whenever a NEW link shows up anywhere we're
+  // watching, see if it matches a sticker we already placed near it.
+  function tryHideLinkAgainstSticker(a) {
+    if (!a || a.hasAttribute("data-kds-hidden-link")) return;
+    let href = a.getAttribute("href") || "";
+    try { href = decodeURIComponent(href); } catch (e) {}
+    if (href.indexOf("/stickers/packs/") === -1) return; // fast reject: not one of ours
+    const scopes = [a.parentElement, a.parentElement && a.parentElement.parentElement].filter(Boolean);
+    for (const scope of scopes) {
+      const stickers = scope.querySelectorAll ? scope.querySelectorAll(".kds-sticker[data-kds-key]") : [];
+      for (const s of stickers) {
+        const [pack, id] = (s.dataset.kdsKey || "").split("/");
+        const st = NS.library.resolve(pack, id);
+        if (st && href.indexOf(st.file) !== -1) {
+          a.style.display = "none";
+          a.setAttribute("data-kds-hidden-link", "1");
+          return;
+        }
+      }
+    }
+  }
+
   function scanSubtree(node) {
     if (!node) return;
     if (node.nodeType === Node.TEXT_NODE) { processTextNode(node); return; }
@@ -118,6 +144,10 @@
     const tag = node.tagName;
     if (tag === "SCRIPT" || tag === "STYLE" || tag === "TEXTAREA" || tag === "INPUT") return;
     if (node.classList && node.classList.contains("kds-sticker")) return;
+
+    if (tag === "A" && node.hasAttribute("href")) tryHideLinkAgainstSticker(node);
+    else if (node.querySelectorAll) node.querySelectorAll("a[href]").forEach(tryHideLinkAgainstSticker);
+
     if ((node.textContent || "").indexOf(TOKEN) === -1) return; // fast reject
 
     const tw = document.createTreeWalker(node, NodeFilter.SHOW_TEXT);

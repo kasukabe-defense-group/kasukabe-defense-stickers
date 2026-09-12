@@ -11,7 +11,7 @@ See [PRD.md](PRD.md) for the full design, the hard limits, and the decisions log
 
 ## Download (for teammates)
 
-**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.5/kasukabe-defense-stickers-v1.0.5.zip)**
+**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.6/kasukabe-defense-stickers-v1.0.6.zip)**
 — click it, unzip, then see [Install](#install-all-of-chrome--edge--brave) below.
 
 Don't use GitHub's own "Source code (zip)" link if you see it on the Releases
