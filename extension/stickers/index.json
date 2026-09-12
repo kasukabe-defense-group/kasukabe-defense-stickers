@@ -4726,6 +4726,102 @@
         "clothing"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "snow-white-sleeping",
+      "pack": "reactions",
+      "name": "Snow White Sleeping",
+      "file": "packs/reactions/snow-white-sleeping.webp",
+      "type": "webp",
+      "tags": [
+        "snow white",
+        "disney",
+        "sleeping",
+        "cartoon",
+        "classic",
+        "still"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mickey-minnie-blush-affection",
+      "pack": "praise",
+      "name": "Mickey Minnie Blush Affection",
+      "file": "packs/praise/mickey-minnie-blush-affection.webp",
+      "type": "webp",
+      "tags": [
+        "mickey mouse",
+        "minnie",
+        "disney",
+        "affection",
+        "cute",
+        "blush"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kourtney-not-a-joke-my-life",
+      "pack": "roast",
+      "name": "Kourtney Not A Joke My Life",
+      "file": "packs/roast/kourtney-not-a-joke-my-life.webp",
+      "type": "webp",
+      "tags": [
+        "kourtney kardashian",
+        "reality tv",
+        "meme",
+        "sarcastic",
+        "iconic",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mickey-minnie-livingroom",
+      "pack": "praise",
+      "name": "Mickey Minnie Livingroom",
+      "file": "packs/praise/mickey-minnie-livingroom.webp",
+      "type": "webp",
+      "tags": [
+        "mickey mouse",
+        "minnie",
+        "disney",
+        "dance",
+        "cute",
+        "home"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "puppet-monkey-stare",
+      "pack": "reactions",
+      "name": "Puppet Monkey Stare",
+      "file": "packs/reactions/puppet-monkey-stare.webp",
+      "type": "webp",
+      "tags": [
+        "puppet",
+        "monkey",
+        "stare",
+        "weird",
+        "blank",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "doge-are-to-kya-hua",
+      "pack": "reactions",
+      "name": "Doge Are To Kya Hua",
+      "file": "packs/reactions/doge-are-to-kya-hua.webp",
+      "type": "webp",
+      "tags": [
+        "doge",
+        "hindi",
+        "normal",
+        "funny",
+        "meme",
+        "reassurance"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
