@@ -1514,6 +1514,148 @@
         "embarrassed"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "monkey-middle-finger",
+      "pack": "roast",
+      "name": "Monkey Middle Finger",
+      "file": "packs/roast/monkey-middle-finger.webp",
+      "type": "webp",
+      "tags": [
+        "monkey",
+        "finger",
+        "rude",
+        "funny",
+        "animal",
+        "sassy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "orange-bear-laugh",
+      "pack": "praise",
+      "name": "Orange Bear Laugh",
+      "file": "packs/praise/orange-bear-laugh.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "laugh",
+        "happy",
+        "cartoon",
+        "wholesome",
+        "bear"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "monkey-shock-cover-mouth",
+      "pack": "reactions",
+      "name": "Monkey Shock Cover Mouth",
+      "file": "packs/reactions/monkey-shock-cover-mouth.webp",
+      "type": "webp",
+      "tags": [
+        "monkey",
+        "shocked",
+        "surprised",
+        "omg",
+        "cute",
+        "animal"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bear-cheer-arms-up",
+      "pack": "reactions",
+      "name": "Bear Cheer Arms Up",
+      "file": "packs/reactions/bear-cheer-arms-up.webp",
+      "type": "webp",
+      "tags": [
+        "bear",
+        "cheer",
+        "excited",
+        "yay",
+        "celebrate",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "round-blob-bag",
+      "pack": "reactions",
+      "name": "Round Blob Bag",
+      "file": "packs/reactions/round-blob-bag.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "cartoon",
+        "walking",
+        "simple",
+        "kawaii"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-red-sus",
+      "pack": "roast",
+      "name": "Cat Red Sus",
+      "file": "packs/roast/cat-red-sus.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "suspicious",
+        "red",
+        "sus",
+        "stare",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-dance-blur",
+      "pack": "reactions",
+      "name": "Cat Dance Blur",
+      "file": "packs/reactions/cat-dance-blur.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "dance",
+        "funny",
+        "motion",
+        "blurry",
+        "energetic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "donkey-smile-repost",
+      "pack": "reactions",
+      "name": "Donkey Smile Repost",
+      "file": "packs/reactions/donkey-smile-repost.webp",
+      "type": "webp",
+      "tags": [
+        "donkey",
+        "smile",
+        "funny",
+        "animal",
+        "teeth",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-peace-sign",
+      "pack": "reactions",
+      "name": "Kid Peace Sign",
+      "file": "packs/reactions/kid-peace-sign.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "peace sign",
+        "sunglasses",
+        "cool",
+        "swag"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
