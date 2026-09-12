@@ -2791,6 +2791,133 @@
         "face"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "woman-bite-laptop-rage",
+      "pack": "roast",
+      "name": "Woman Bite Laptop Rage",
+      "file": "packs/roast/woman-bite-laptop-rage.webp",
+      "type": "webp",
+      "tags": [
+        "rage",
+        "frustrated",
+        "laptop",
+        "meme",
+        "angry",
+        "bite"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "jethalal-tmkoc",
+      "pack": "roast",
+      "name": "Jethalal Tmkoc",
+      "file": "packs/roast/jethalal-tmkoc.webp",
+      "type": "webp",
+      "tags": [
+        "jethalal",
+        "tmkoc",
+        "hindi",
+        "tv show",
+        "comedy",
+        "laughing"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chocolate-cake-cut",
+      "pack": "praise",
+      "name": "Chocolate Cake Cut",
+      "file": "packs/praise/chocolate-cake-cut.webp",
+      "type": "webp",
+      "tags": [
+        "cake",
+        "chocolate",
+        "food",
+        "delicious",
+        "yummy",
+        "cutting"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "peach-cat-flowers",
+      "pack": "praise",
+      "name": "Peach Cat Flowers",
+      "file": "packs/praise/peach-cat-flowers.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "cat",
+        "flowers",
+        "kawaii",
+        "gift",
+        "wholesome"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "pepe-crying-writing",
+      "pack": "reactions",
+      "name": "Pepe Crying Writing",
+      "file": "packs/reactions/pepe-crying-writing.webp",
+      "type": "webp",
+      "tags": [
+        "pepe",
+        "sad",
+        "crying",
+        "writing",
+        "studying",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kitten-laptop-paw",
+      "pack": "reactions",
+      "name": "Kitten Laptop Paw",
+      "file": "packs/reactions/kitten-laptop-paw.webp",
+      "type": "webp",
+      "tags": [
+        "kitten",
+        "cute",
+        "laptop",
+        "paw",
+        "curious",
+        "animal"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "husky-dance-prance",
+      "pack": "reactions",
+      "name": "Husky Dance Prance",
+      "file": "packs/reactions/husky-dance-prance.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "husky",
+        "dance",
+        "funny",
+        "prance",
+        "energetic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blurry-animal-mouth-open",
+      "pack": "reactions",
+      "name": "Blurry Animal Mouth Open",
+      "file": "packs/reactions/blurry-animal-mouth-open.webp",
+      "type": "webp",
+      "tags": [
+        "animal",
+        "blurry",
+        "mouth open",
+        "surprised",
+        "weird"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
