@@ -3830,6 +3830,150 @@
         "exhausted"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "duck-sleeping-bed",
+      "pack": "reactions",
+      "name": "Duck Sleeping Bed",
+      "file": "packs/reactions/duck-sleeping-bed.webp",
+      "type": "webp",
+      "tags": [
+        "duck",
+        "sleep",
+        "cute",
+        "bed",
+        "tired",
+        "animal"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kids-breakfast-smile",
+      "pack": "reactions",
+      "name": "Kids Breakfast Smile",
+      "file": "packs/reactions/kids-breakfast-smile.webp",
+      "type": "webp",
+      "tags": [
+        "kids",
+        "breakfast",
+        "smile",
+        "cute",
+        "family",
+        "happy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-tongue-out-closeup",
+      "pack": "reactions",
+      "name": "Kid Tongue Out Closeup",
+      "file": "packs/reactions/kid-tongue-out-closeup.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "tongue",
+        "playful",
+        "silly",
+        "cute",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "hearts-character-happy",
+      "pack": "praise",
+      "name": "Hearts Character Happy",
+      "file": "packs/praise/hearts-character-happy.webp",
+      "type": "webp",
+      "tags": [
+        "hearts",
+        "love",
+        "happy",
+        "cute",
+        "blush",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "tv-actress-disgusted",
+      "pack": "roast",
+      "name": "Tv Actress Disgusted",
+      "file": "packs/roast/tv-actress-disgusted.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "tv show",
+        "disgusted",
+        "annoyed",
+        "meme",
+        "serial"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "period-drama-couple-kiss",
+      "pack": "praise",
+      "name": "Period Drama Couple Kiss",
+      "file": "packs/praise/period-drama-couple-kiss.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "kiss",
+        "romantic",
+        "tv show",
+        "drama",
+        "historical"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "orangutan-dance-zoo",
+      "pack": "reactions",
+      "name": "Orangutan Dance Zoo",
+      "file": "packs/reactions/orangutan-dance-zoo.webp",
+      "type": "webp",
+      "tags": [
+        "orangutan",
+        "dance",
+        "zoo",
+        "funny",
+        "animal",
+        "energetic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-smirk-lanyard",
+      "pack": "reactions",
+      "name": "Kid Smirk Lanyard",
+      "file": "packs/reactions/kid-smirk-lanyard.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "smirk",
+        "cute",
+        "playful",
+        "lanyard",
+        "smile"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "dog-pink-sunglasses",
+      "pack": "reactions",
+      "name": "Dog Pink Sunglasses",
+      "file": "packs/reactions/dog-pink-sunglasses.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "sunglasses",
+        "pink",
+        "cool",
+        "funny",
+        "swag"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
