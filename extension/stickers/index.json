@@ -1466,6 +1466,22 @@
         "defeated"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "tongue-out-kid",
+      "pack": "reactions",
+      "name": "Tongue Out Kid",
+      "file": "packs/reactions/tongue-out-kid.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "tongue",
+        "silly",
+        "playful",
+        "goofy",
+        "funny"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
