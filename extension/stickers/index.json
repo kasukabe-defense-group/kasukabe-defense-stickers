@@ -2375,6 +2375,151 @@
         "curious"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "kid-side-eye-suspicious",
+      "pack": "reactions",
+      "name": "Kid Side Eye Suspicious",
+      "file": "packs/reactions/kid-side-eye-suspicious.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "side eye",
+        "suspicious",
+        "cute",
+        "judging",
+        "side glance"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "sad-drinking-cartoon",
+      "pack": "roast",
+      "name": "Sad Drinking Cartoon",
+      "file": "packs/roast/sad-drinking-cartoon.webp",
+      "type": "webp",
+      "tags": [
+        "sad",
+        "crying",
+        "drinking",
+        "alcohol",
+        "coping",
+        "lonely",
+        "bottles"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ladies-hu-mai",
+      "pack": "reactions",
+      "name": "Ladies Hu Mai",
+      "file": "packs/reactions/ladies-hu-mai.webp",
+      "type": "webp",
+      "tags": [
+        "emoji",
+        "hindi",
+        "sassy",
+        "salute",
+        "girl",
+        "playful"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "woh-b-yehi-kehti-thi",
+      "pack": "roast",
+      "name": "Woh B Yehi Kehti Thi",
+      "file": "packs/roast/woh-b-yehi-kehti-thi.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "gta",
+        "video game",
+        "sarcasm",
+        "meme",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "worried-3d-character",
+      "pack": "reactions",
+      "name": "Worried 3D Character",
+      "file": "packs/reactions/worried-3d-character.webp",
+      "type": "webp",
+      "tags": [
+        "worried",
+        "nervous",
+        "animated",
+        "concerned",
+        "face",
+        "movie"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-calm-stare",
+      "pack": "reactions",
+      "name": "Baby Calm Stare",
+      "file": "packs/reactions/baby-calm-stare.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "calm",
+        "stare",
+        "cute",
+        "innocent",
+        "confused"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-paws-up-heart",
+      "pack": "praise",
+      "name": "Cat Paws Up Heart",
+      "file": "packs/praise/cat-paws-up-heart.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "love",
+        "heart",
+        "cute",
+        "paws",
+        "affection"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "salman-khan-smug",
+      "pack": "roast",
+      "name": "Salman Khan Smug",
+      "file": "packs/roast/salman-khan-smug.webp",
+      "type": "webp",
+      "tags": [
+        "salman khan",
+        "bollywood",
+        "smug",
+        "movie",
+        "hindi",
+        "smile"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-sleepy-squint",
+      "pack": "reactions",
+      "name": "Cat Sleepy Squint",
+      "file": "packs/reactions/cat-sleepy-squint.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "sleepy",
+        "squint",
+        "tired",
+        "unimpressed",
+        "closeup"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
