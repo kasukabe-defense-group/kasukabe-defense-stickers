@@ -2215,6 +2215,166 @@
         "distracted"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "couple-kiss-bw",
+      "pack": "praise",
+      "name": "Couple Kiss Bw",
+      "file": "packs/praise/couple-kiss-bw.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "kiss",
+        "love",
+        "romantic",
+        "black and white",
+        "affection"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "pillsbury-doughboy",
+      "pack": "praise",
+      "name": "Pillsbury Doughboy",
+      "file": "packs/praise/pillsbury-doughboy.webp",
+      "type": "webp",
+      "tags": [
+        "mascot",
+        "doughboy",
+        "cute",
+        "brand",
+        "wholesome",
+        "classic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "smug-stick-figure",
+      "pack": "reactions",
+      "name": "Smug Stick Figure",
+      "file": "packs/reactions/smug-stick-figure.webp",
+      "type": "webp",
+      "tags": [
+        "smug",
+        "content",
+        "chill",
+        "stick figure",
+        "relaxed",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "clown-this-you",
+      "pack": "roast",
+      "name": "Clown This You",
+      "file": "packs/roast/clown-this-you.webp",
+      "type": "webp",
+      "tags": [
+        "clown",
+        "roast",
+        "hypocrite",
+        "this you",
+        "callout",
+        "makeup"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "doge-sweat-nervous",
+      "pack": "reactions",
+      "name": "Doge Sweat Nervous",
+      "file": "packs/reactions/doge-sweat-nervous.webp",
+      "type": "webp",
+      "tags": [
+        "doge",
+        "dog",
+        "nervous",
+        "sweat",
+        "awkward",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "merica-flag-guy",
+      "pack": "roast",
+      "name": "Merica Flag Guy",
+      "file": "packs/roast/merica-flag-guy.webp",
+      "type": "webp",
+      "tags": [
+        "merica",
+        "flag",
+        "funny",
+        "viral",
+        "chaotic",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ron-swanson-flag",
+      "pack": "reactions",
+      "name": "Ron Swanson Flag",
+      "file": "packs/reactions/ron-swanson-flag.webp",
+      "type": "webp",
+      "tags": [
+        "ron swanson",
+        "parks and rec",
+        "tv show",
+        "stern",
+        "flag",
+        "serious"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kitten-tongue-shaka",
+      "pack": "reactions",
+      "name": "Kitten Tongue Shaka",
+      "file": "packs/reactions/kitten-tongue-shaka.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "kitten",
+        "tongue",
+        "shaka",
+        "funny",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-side-eye-orange",
+      "pack": "roast",
+      "name": "Cat Side Eye Orange",
+      "file": "packs/roast/cat-side-eye-orange.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "side eye",
+        "suspicious",
+        "judging",
+        "orange cat",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "gray-cat-small-blur",
+      "pack": "reactions",
+      "name": "Gray Cat Small Blur",
+      "file": "packs/reactions/gray-cat-small-blur.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "gray cat",
+        "blurry",
+        "cute",
+        "small",
+        "curious"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
