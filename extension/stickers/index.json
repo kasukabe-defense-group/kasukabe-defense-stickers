@@ -3254,6 +3254,166 @@
         "news"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "baby-about-to-cry",
+      "pack": "reactions",
+      "name": "Baby About To Cry",
+      "file": "packs/reactions/baby-about-to-cry.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "cry",
+        "sad",
+        "upset",
+        "cute",
+        "pouty"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bunny-cry-shake",
+      "pack": "reactions",
+      "name": "Bunny Cry Shake",
+      "file": "packs/reactions/bunny-cry-shake.webp",
+      "type": "webp",
+      "tags": [
+        "bunny",
+        "cry",
+        "shake",
+        "sad",
+        "cute",
+        "wholesome"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-lying-leaves-fun",
+      "pack": "reactions",
+      "name": "Kid Lying Leaves Fun",
+      "file": "packs/reactions/kid-lying-leaves-fun.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "leaves",
+        "lying down",
+        "playful",
+        "autumn",
+        "fun"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-smirk-sly",
+      "pack": "reactions",
+      "name": "Kid Smirk Sly",
+      "file": "packs/reactions/kid-smirk-sly.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "smirk",
+        "sly",
+        "cute",
+        "sassy",
+        "mischievous"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cheen-tapak-dum-dum",
+      "pack": "roast",
+      "name": "Cheen Tapak Dum Dum",
+      "file": "packs/roast/cheen-tapak-dum-dum.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "meme",
+        "nonsense",
+        "catchphrase",
+        "funny",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cheen-tapak-bowl",
+      "pack": "roast",
+      "name": "Cheen Tapak Bowl",
+      "file": "packs/roast/cheen-tapak-bowl.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "meme",
+        "cartoon",
+        "bowl",
+        "funny",
+        "character"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "spiderman-costume-dance",
+      "pack": "reactions",
+      "name": "Spiderman Costume Dance",
+      "file": "packs/reactions/spiderman-costume-dance.webp",
+      "type": "webp",
+      "tags": [
+        "spiderman",
+        "costume",
+        "cosplay",
+        "dance",
+        "funny",
+        "kid"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-happy-smile-closeup",
+      "pack": "praise",
+      "name": "Cat Happy Smile Closeup",
+      "file": "packs/praise/cat-happy-smile-closeup.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "smile",
+        "happy",
+        "cute",
+        "closeup",
+        "joy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "hairaan-shocked",
+      "pack": "reactions",
+      "name": "Hairaan Shocked",
+      "file": "packs/reactions/hairaan-shocked.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "shocked",
+        "surprised",
+        "blurry",
+        "meme",
+        "face"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "i-stole-your-sticker",
+      "pack": "roast",
+      "name": "I Stole Your Sticker",
+      "file": "packs/roast/i-stole-your-sticker.webp",
+      "type": "webp",
+      "tags": [
+        "meta",
+        "meme",
+        "sticker",
+        "funny",
+        "hand",
+        "callout"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
