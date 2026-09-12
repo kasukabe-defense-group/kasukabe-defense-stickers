@@ -3686,6 +3686,150 @@
         "cute"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "pikachu-smug-scheme",
+      "pack": "reactions",
+      "name": "Pikachu Smug Scheme",
+      "file": "packs/reactions/pikachu-smug-scheme.webp",
+      "type": "webp",
+      "tags": [
+        "pikachu",
+        "pokemon",
+        "smug",
+        "scheming",
+        "cute",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "emoji-heart-eyes-fingerguns",
+      "pack": "praise",
+      "name": "Emoji Heart Eyes Fingerguns",
+      "file": "packs/praise/emoji-heart-eyes-fingerguns.webp",
+      "type": "webp",
+      "tags": [
+        "emoji",
+        "heart eyes",
+        "love",
+        "finger guns",
+        "cute",
+        "hearts"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-skeptical-closeup",
+      "pack": "reactions",
+      "name": "Baby Skeptical Closeup",
+      "file": "packs/reactions/baby-skeptical-closeup.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "skeptical",
+        "confused",
+        "cute",
+        "closeup",
+        "doubtful"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-smirk-green-shirt",
+      "pack": "reactions",
+      "name": "Baby Smirk Green Shirt",
+      "file": "packs/reactions/baby-smirk-green-shirt.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "smirk",
+        "cute",
+        "playful",
+        "kid",
+        "smile"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "elderly-woman-dance-saree",
+      "pack": "reactions",
+      "name": "Elderly Woman Dance Saree",
+      "file": "packs/reactions/elderly-woman-dance-saree.webp",
+      "type": "webp",
+      "tags": [
+        "dance",
+        "energetic",
+        "funny",
+        "saree",
+        "viral",
+        "elderly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chibi-ninja-dance",
+      "pack": "reactions",
+      "name": "Chibi Ninja Dance",
+      "file": "packs/reactions/chibi-ninja-dance.webp",
+      "type": "webp",
+      "tags": [
+        "anime",
+        "ninja",
+        "chibi",
+        "dance",
+        "cute",
+        "naruto"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "jerry-wrestle-bird",
+      "pack": "reactions",
+      "name": "Jerry Wrestle Bird",
+      "file": "packs/reactions/jerry-wrestle-bird.webp",
+      "type": "webp",
+      "tags": [
+        "tom and jerry",
+        "cartoon",
+        "fight",
+        "funny",
+        "classic",
+        "wrestling"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-thinking-smirk",
+      "pack": "reactions",
+      "name": "Kid Thinking Smirk",
+      "file": "packs/reactions/kid-thinking-smirk.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "thinking",
+        "smirk",
+        "cute",
+        "gesture",
+        "playful"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "smiles-in-agony",
+      "pack": "reactions",
+      "name": "Smiles In Agony",
+      "file": "packs/reactions/smiles-in-agony.webp",
+      "type": "webp",
+      "tags": [
+        "tired",
+        "agony",
+        "forced smile",
+        "meme",
+        "done",
+        "exhausted"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
