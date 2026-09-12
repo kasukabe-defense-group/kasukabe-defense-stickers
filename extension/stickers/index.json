@@ -4422,6 +4422,166 @@
         "animal"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "tom-grumpy-valentine",
+      "pack": "reactions",
+      "name": "Tom Grumpy Valentine",
+      "file": "packs/reactions/tom-grumpy-valentine.webp",
+      "type": "webp",
+      "tags": [
+        "tom and jerry",
+        "cartoon",
+        "grumpy",
+        "valentine",
+        "hearts",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "get-well-soon-rainbow",
+      "pack": "praise",
+      "name": "Get Well Soon Rainbow",
+      "file": "packs/praise/get-well-soon-rainbow.webp",
+      "type": "webp",
+      "tags": [
+        "get well soon",
+        "rainbow",
+        "heart",
+        "wholesome",
+        "care",
+        "sticker"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "doge-crying-hug",
+      "pack": "praise",
+      "name": "Doge Crying Hug",
+      "file": "packs/praise/doge-crying-hug.webp",
+      "type": "webp",
+      "tags": [
+        "doge",
+        "dog",
+        "crying",
+        "hug",
+        "comfort",
+        "sad"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "otters-hugging-cute",
+      "pack": "praise",
+      "name": "Otters Hugging Cute",
+      "file": "packs/praise/otters-hugging-cute.webp",
+      "type": "webp",
+      "tags": [
+        "otter",
+        "hug",
+        "cute",
+        "animal",
+        "affection",
+        "animated"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-low-angle-look",
+      "pack": "reactions",
+      "name": "Kid Low Angle Look",
+      "file": "packs/reactions/kid-low-angle-look.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "look",
+        "cute",
+        "watermark",
+        "playful",
+        "face"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chibi-girl-angry",
+      "pack": "reactions",
+      "name": "Chibi Girl Angry",
+      "file": "packs/reactions/chibi-girl-angry.webp",
+      "type": "webp",
+      "tags": [
+        "anime",
+        "chibi",
+        "angry",
+        "annoyed",
+        "cute",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "killed-the-conversation",
+      "pack": "roast",
+      "name": "Killed The Conversation",
+      "file": "packs/roast/killed-the-conversation.webp",
+      "type": "webp",
+      "tags": [
+        "profanity",
+        "meme",
+        "kid",
+        "sunglasses",
+        "conversation",
+        "savage"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "angry-bear-fire",
+      "pack": "reactions",
+      "name": "Angry Bear Fire",
+      "file": "packs/reactions/angry-bear-fire.webp",
+      "type": "webp",
+      "tags": [
+        "bear",
+        "angry",
+        "fire",
+        "furious",
+        "cute",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-wide-eyes-blank-stare",
+      "pack": "reactions",
+      "name": "Cat Wide Eyes Blank Stare",
+      "file": "packs/reactions/cat-wide-eyes-blank-stare.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "wide eyes",
+        "stare",
+        "confused",
+        "closeup",
+        "blank"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "vo-my-ghad",
+      "pack": "reactions",
+      "name": "Vo My Ghad",
+      "file": "packs/reactions/vo-my-ghad.webp",
+      "type": "webp",
+      "tags": [
+        "guy",
+        "awkward",
+        "selfie",
+        "funny",
+        "phonetic",
+        "meme"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
