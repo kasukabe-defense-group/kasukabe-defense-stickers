@@ -1928,6 +1928,149 @@
         "confusion"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "white-cat-crying",
+      "pack": "reactions",
+      "name": "White Cat Crying",
+      "file": "packs/reactions/white-cat-crying.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "crying",
+        "sad",
+        "tears",
+        "white cat",
+        "upset"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "villain-cat-scheme",
+      "pack": "roast",
+      "name": "Villain Cat Scheme",
+      "file": "packs/roast/villain-cat-scheme.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "villain",
+        "scheming",
+        "plotting",
+        "evil",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-nervous-sweat",
+      "pack": "reactions",
+      "name": "Cat Nervous Sweat",
+      "file": "packs/reactions/cat-nervous-sweat.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "nervous",
+        "sweat",
+        "awkward",
+        "anxious",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "pwease-hands",
+      "pack": "reactions",
+      "name": "Pwease Hands",
+      "file": "packs/reactions/pwease-hands.webp",
+      "type": "webp",
+      "tags": [
+        "please",
+        "begging",
+        "cute",
+        "hands",
+        "pwease",
+        "pleading"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "heart-eyes-kiss-emoji",
+      "pack": "praise",
+      "name": "Heart Eyes Kiss Emoji",
+      "file": "packs/praise/heart-eyes-kiss-emoji.webp",
+      "type": "webp",
+      "tags": [
+        "emoji",
+        "love",
+        "kiss",
+        "heart eyes",
+        "affection",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ure-most-welcome",
+      "pack": "roast",
+      "name": "Ure Most Welcome",
+      "file": "packs/roast/ure-most-welcome.webp",
+      "type": "webp",
+      "tags": [
+        "sarcasm",
+        "welcome",
+        "meme",
+        "reaction",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cool-cat-sunglasses",
+      "pack": "praise",
+      "name": "Cool Cat Sunglasses",
+      "file": "packs/praise/cool-cat-sunglasses.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "cool",
+        "sunglasses",
+        "finger guns",
+        "swag",
+        "confident"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "melting-puddle-tired",
+      "pack": "reactions",
+      "name": "Melting Puddle Tired",
+      "file": "packs/reactions/melting-puddle-tired.webp",
+      "type": "webp",
+      "tags": [
+        "melting",
+        "tired",
+        "dead inside",
+        "puddle",
+        "exhausted",
+        "done"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "rachel-friends-disgust",
+      "pack": "reactions",
+      "name": "Rachel Friends Disgust",
+      "file": "packs/reactions/rachel-friends-disgust.webp",
+      "type": "webp",
+      "tags": [
+        "friends",
+        "rachel",
+        "disgusted",
+        "tv show",
+        "funny",
+        "face"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
