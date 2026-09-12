@@ -2520,6 +2520,165 @@
         "closeup"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "cat-crying-closeup",
+      "pack": "reactions",
+      "name": "Cat Crying Closeup",
+      "file": "packs/reactions/cat-crying-closeup.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "crying",
+        "sad",
+        "tears",
+        "closeup",
+        "upset"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "yeah-tunnel-ride",
+      "pack": "reactions",
+      "name": "Yeah Tunnel Ride",
+      "file": "packs/reactions/yeah-tunnel-ride.webp",
+      "type": "webp",
+      "tags": [
+        "yeah",
+        "hype",
+        "motorcycle",
+        "fire",
+        "excited",
+        "ride"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "crying-man-sad",
+      "pack": "reactions",
+      "name": "Crying Man Sad",
+      "file": "packs/reactions/crying-man-sad.webp",
+      "type": "webp",
+      "tags": [
+        "crying",
+        "sad",
+        "man",
+        "tears",
+        "emotional",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "crying-blurry-character",
+      "pack": "reactions",
+      "name": "Crying Blurry Character",
+      "file": "packs/reactions/crying-blurry-character.webp",
+      "type": "webp",
+      "tags": [
+        "crying",
+        "sad",
+        "blurry",
+        "cartoon",
+        "tears",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "stressed-hands-head",
+      "pack": "reactions",
+      "name": "Stressed Hands Head",
+      "file": "packs/reactions/stressed-hands-head.webp",
+      "type": "webp",
+      "tags": [
+        "stressed",
+        "overwhelmed",
+        "hands on head",
+        "blurry",
+        "panic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chick-thumbs-up-cute",
+      "pack": "praise",
+      "name": "Chick Thumbs Up Cute",
+      "file": "packs/praise/chick-thumbs-up-cute.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "chick",
+        "thumbs up",
+        "sparkle",
+        "kawaii",
+        "approve"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-bowl-helmet",
+      "pack": "reactions",
+      "name": "Cat Bowl Helmet",
+      "file": "packs/reactions/cat-bowl-helmet.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "bowl",
+        "helmet",
+        "funny",
+        "silly",
+        "head"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bollywood-swagger-walk",
+      "pack": "roast",
+      "name": "Bollywood Swagger Walk",
+      "file": "packs/roast/bollywood-swagger-walk.webp",
+      "type": "webp",
+      "tags": [
+        "bollywood",
+        "movie",
+        "swagger",
+        "cool",
+        "gang",
+        "sunglasses"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-pink-socks",
+      "pack": "reactions",
+      "name": "Cat Pink Socks",
+      "file": "packs/reactions/cat-pink-socks.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "socks",
+        "pink",
+        "cute",
+        "funny",
+        "paws"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "tv-show-teens-joke",
+      "pack": "reactions",
+      "name": "Tv Show Teens Joke",
+      "file": "packs/reactions/tv-show-teens-joke.webp",
+      "type": "webp",
+      "tags": [
+        "tv show",
+        "teens",
+        "pointing",
+        "joke",
+        "funny",
+        "netflix"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
