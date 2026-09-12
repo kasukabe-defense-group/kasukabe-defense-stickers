@@ -1,0 +1,549 @@
+{
+  "version": 3,
+  "updated": "2026-09-12",
+  "packs": [
+    {
+      "id": "reactions",
+      "title": "Reactions",
+      "order": 1
+    },
+    {
+      "id": "praise",
+      "title": "Praise",
+      "order": 2
+    },
+    {
+      "id": "roast",
+      "title": "Roast",
+      "order": 3
+    }
+  ],
+  "stickers": [
+    {
+      "id": "shabash-beta",
+      "pack": "praise",
+      "name": "Shabash Beta",
+      "file": "packs/praise/shabash-beta.jpg",
+      "type": "jpg",
+      "tags": [
+        "shabash beta",
+        "well done",
+        "good job",
+        "praise",
+        "proud",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "abhi-maja-ayega",
+      "pack": "roast",
+      "name": "Abhi Maja Ayega Na Bhidu",
+      "file": "packs/roast/abhi-maja-ayega.jpg",
+      "type": "jpg",
+      "tags": [
+        "abhi maja ayega",
+        "now watch what happens",
+        "trouble",
+        "tease",
+        "johnny lever",
+        "uh oh",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "jhakaas",
+      "pack": "praise",
+      "name": "Jhakaas",
+      "file": "packs/praise/jhakaas.jpg",
+      "type": "jpg",
+      "tags": [
+        "jhakaas",
+        "anil kapoor",
+        "awesome",
+        "great",
+        "superb",
+        "mast",
+        "bollywood",
+        "approve",
+        "nice"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "kuch-to-sharam-karo",
+      "pack": "roast",
+      "name": "Kuch To Sharam Karo Janab",
+      "file": "packs/roast/kuch-to-sharam-karo.jpg",
+      "type": "jpg",
+      "tags": [
+        "kuch to sharam karo",
+        "have some shame",
+        "scold",
+        "akshay kumar",
+        "angry",
+        "roast",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "akhir-kehna-kya-chahte-ho",
+      "pack": "reactions",
+      "name": "Akhir Kehna Kya Chahte Ho",
+      "file": "packs/reactions/akhir-kehna-kya-chahte-ho.jpg",
+      "type": "jpg",
+      "tags": [
+        "what do you want to say",
+        "confused",
+        "get to the point",
+        "question",
+        "annoyed",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "abye-sale",
+      "pack": "roast",
+      "name": "Abye Sale",
+      "file": "packs/roast/abye-sale.jpg",
+      "type": "jpg",
+      "tags": [
+        "abye sale",
+        "insult",
+        "hey you",
+        "angry",
+        "roast",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "itni-khushi",
+      "pack": "reactions",
+      "name": "Itni Khushi",
+      "file": "packs/reactions/itni-khushi.jpg",
+      "type": "jpg",
+      "tags": [
+        "itni khushi",
+        "so much happiness",
+        "sarcastic happy",
+        "smug",
+        "reaction",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "aao-kabhi-haweli-pe",
+      "pack": "roast",
+      "name": "Aao Kabhi Haweli Pe",
+      "file": "packs/roast/aao-kabhi-haweli-pe.jpg",
+      "type": "jpg",
+      "tags": [
+        "aao kabhi haweli pe",
+        "ajit",
+        "villain",
+        "playful threat",
+        "invite",
+        "funny",
+        "hindi",
+        "bollywood"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "mast-plan-hai",
+      "pack": "praise",
+      "name": "Mast Plan Hai",
+      "file": "packs/praise/mast-plan-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "mast plan hai",
+        "great plan",
+        "good idea",
+        "approve",
+        "nice one",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "nonsense",
+      "pack": "roast",
+      "name": "Nonsense",
+      "file": "packs/roast/nonsense.jpg",
+      "type": "jpg",
+      "tags": [
+        "nonsense",
+        "dr hathi",
+        "disagree",
+        "rubbish",
+        "no way",
+        "taarak mehta",
+        "roast"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "kya-bola-tumne",
+      "pack": "reactions",
+      "name": "Kya Bola Tum Ne",
+      "file": "packs/reactions/kya-bola-tumne.jpg",
+      "type": "jpg",
+      "tags": [
+        "kya bola tumne",
+        "what did you say",
+        "shocked",
+        "challenge",
+        "confused",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "nahi",
+      "pack": "reactions",
+      "name": "Nahi",
+      "file": "packs/reactions/nahi.jpg",
+      "type": "jpg",
+      "tags": [
+        "nahi",
+        "no",
+        "sanjay dutt",
+        "disagree",
+        "reject",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "tera-game-bajana-padega",
+      "pack": "roast",
+      "name": "Tera Toh Game Bajana Padega",
+      "file": "packs/roast/tera-game-bajana-padega.jpg",
+      "type": "jpg",
+      "tags": [
+        "tera game bajana padega",
+        "you're in trouble",
+        "threat",
+        "warning",
+        "playful",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "bolne-de-takleef-hua-hai",
+      "pack": "roast",
+      "name": "Bolne De Takleef Hua Hai Bechare Ko",
+      "file": "packs/roast/bolne-de-takleef-hua-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "bolne de",
+        "let him speak",
+        "poor guy",
+        "sarcastic sympathy",
+        "anil kapoor",
+        "mocking",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "ye-to-latest-news-hai",
+      "pack": "reactions",
+      "name": "Ye To Latest News Hai",
+      "file": "packs/reactions/ye-to-latest-news-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "ye to latest news hai",
+        "breaking news",
+        "gossip",
+        "reaction",
+        "surprised",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "kitne-tejaswi-log-hai",
+      "pack": "roast",
+      "name": "Kitne Tejaswi Log Hai Humare Paas",
+      "file": "packs/roast/kitne-tejaswi-log-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "kitne tejaswi log",
+        "modi",
+        "sarcastic",
+        "so many brilliant people",
+        "roast",
+        "politics",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "kisine-mujhe-yaad-kiya",
+      "pack": "reactions",
+      "name": "Kisine Mujhe Yaad Kiya",
+      "file": "packs/reactions/kisine-mujhe-yaad-kiya.jpg",
+      "type": "jpg",
+      "tags": [
+        "kisine mujhe yaad kiya",
+        "did someone miss me",
+        "akshay kumar",
+        "mentioned",
+        "tagged",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "idhar-dard-hota-hai",
+      "pack": "roast",
+      "name": "Idhar Dard Hota Hai",
+      "file": "packs/roast/idhar-dard-hota-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "idhar dard hota hai",
+        "modi",
+        "it hurts here",
+        "pain",
+        "sarcasm",
+        "complaint",
+        "hindi",
+        "politics"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "achhaa",
+      "pack": "reactions",
+      "name": "Achhaa!!",
+      "file": "packs/reactions/achhaa.jpg",
+      "type": "jpg",
+      "tags": [
+        "achhaa",
+        "oh really",
+        "aamir khan",
+        "sarcastic surprise",
+        "disbelief",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "kya-gunda-banega-re-tu",
+      "pack": "roast",
+      "name": "Kya Gunda Banega Re Tu",
+      "file": "packs/roast/kya-gunda-banega-re-tu.jpg",
+      "type": "jpg",
+      "tags": [
+        "kya gunda banega re tu",
+        "acting tough",
+        "tease",
+        "mock",
+        "roast",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "yahi-baki-tha-ab",
+      "pack": "reactions",
+      "name": "Yahi Baki Tha Ab",
+      "file": "packs/reactions/yahi-baki-tha-ab.jpg",
+      "type": "jpg",
+      "tags": [
+        "yahi baki tha",
+        "that's all that was left",
+        "exasperated",
+        "nana patekar",
+        "done with this",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "dekha-aapne-laparwahi",
+      "pack": "roast",
+      "name": "Dekha Aapne Apni Laparwahi Ka Natija",
+      "file": "packs/roast/dekha-aapne-laparwahi.jpg",
+      "type": "jpg",
+      "tags": [
+        "dekha aapne laparwahi",
+        "see the result of your carelessness",
+        "amitabh bachchan",
+        "scold",
+        "told you so",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "khopdi-tor-sale-ka",
+      "pack": "roast",
+      "name": "Khopdi Tor Sale Ka",
+      "file": "packs/roast/khopdi-tor-sale-ka.jpg",
+      "type": "jpg",
+      "tags": [
+        "khopdi tor",
+        "insult",
+        "angry",
+        "roast",
+        "furious",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "chala-gaya-chhod-ke",
+      "pack": "reactions",
+      "name": "Chala Gaya Chhod Ke",
+      "file": "packs/reactions/chala-gaya-chhod-ke.jpg",
+      "type": "jpg",
+      "tags": [
+        "chala gaya chhod ke",
+        "he left",
+        "funny",
+        "laughing",
+        "lol",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "bas-2-minute",
+      "pack": "reactions",
+      "name": "Bas 2 Minute",
+      "file": "packs/reactions/bas-2-minute.png",
+      "type": "png",
+      "tags": [
+        "bas 2 minute",
+        "just 2 minutes",
+        "wait",
+        "cooking",
+        "excuse",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "ruko-jara-sabar-karo",
+      "pack": "reactions",
+      "name": "Ruko Jara Sabar Karo",
+      "file": "packs/reactions/ruko-jara-sabar-karo.jpg",
+      "type": "jpg",
+      "tags": [
+        "ruko jara sabar karo",
+        "wait",
+        "patience",
+        "hold on",
+        "calm down",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "control",
+      "pack": "reactions",
+      "name": "Control",
+      "file": "packs/reactions/control.jpg",
+      "type": "jpg",
+      "tags": [
+        "control",
+        "calm down",
+        "cid",
+        "daya",
+        "chill",
+        "relax",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "jalwa-hai-hamara",
+      "pack": "praise",
+      "name": "Jalwa Hai Hamara Yahan",
+      "file": "packs/praise/jalwa-hai-hamara.jpg",
+      "type": "jpg",
+      "tags": [
+        "jalwa hai hamara",
+        "we're shining",
+        "flex",
+        "confident",
+        "swag",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "dil-se-bura-lagta-hai",
+      "pack": "roast",
+      "name": "Dil Se Bura Lagta Hai",
+      "file": "packs/roast/dil-se-bura-lagta-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "dil se bura lagta hai",
+        "genuinely feels bad",
+        "sarcastic sympathy",
+        "mocking",
+        "kid",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "chala-jaa-bhosdike",
+      "pack": "roast",
+      "name": "Chala Jaa",
+      "file": "packs/roast/chala-jaa-bhosdike.jpg",
+      "type": "jpg",
+      "tags": [
+        "chala jaa",
+        "get lost",
+        "baba",
+        "strong insult",
+        "roast",
+        "hindi",
+        "nsfw language"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "heart-touching",
+      "pack": "praise",
+      "name": "Heart Touching",
+      "file": "packs/praise/heart-touching.jpg",
+      "type": "jpg",
+      "tags": [
+        "heart touching",
+        "doge",
+        "sarcastic praise",
+        "wholesome",
+        "emotional",
+        "meme"
+      ],
+      "added": "2026-09-11"
+    },
+    {
+      "id": "hamare-yaha-aisa-hi-hota-hai",
+      "pack": "reactions",
+      "name": "Hamare Yaha Aisa Hi Hota Hai",
+      "file": "packs/reactions/hamare-yaha-aisa-hi-hota-hai.jpg",
+      "type": "jpg",
+      "tags": [
+        "hamare yaha aisa hi hota hai",
+        "that's just how it is here",
+        "shrug",
+        "resigned",
+        "reaction",
+        "hindi"
+      ],
+      "added": "2026-09-11"
+    }
+  ]
+}

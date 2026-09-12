@@ -1,0 +1,19 @@
+/* Styling for the sticker images we inject into Meet's real chat log.
+ * (The picker UI is isolated in a Shadow DOM and styled separately.)
+ */
+.kds-sticker {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 0;
+}
+.kds-sticker-img {
+  border-radius: 6px;
+  vertical-align: middle;
+  background: rgba(255, 255, 255, 0.04);
+}
+.kds-sticker.kds-missing {
+  line-height: normal;
+  font-size: 12px;
+  opacity: 0.75;
+  font-style: italic;
+}

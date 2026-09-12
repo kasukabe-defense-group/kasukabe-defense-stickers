@@ -1,0 +1,70 @@
+========================================
+ KASUKABE DEFENSE STICKERS - START HERE
+========================================
+
+What this is
+-------------
+A add-on for Chrome (also works on Edge/Brave) that lets you send stickers
+in Google Meet's in-call chat. Click a button, pick a sticker, it shows up
+in the chat as a real picture for everyone else who ALSO has this installed.
+
+
+HOW TO INSTALL (one time, ~2 minutes)
+--------------------------------------
+1. You should already have unzipped this folder - keep it somewhere safe,
+   don't delete it after installing (Chrome keeps reading from it).
+
+2. Open Chrome and go to this address (type or paste it in the address bar):
+       chrome://extensions
+
+3. Turn ON "Developer mode" - it's a toggle switch in the top-right corner.
+
+4. Click the "Load unpacked" button that appears.
+
+5. Select THIS folder (the one this file is sitting in - the one with
+   "manifest.json" inside it).
+
+6. Chrome will show a small notice about what the extension can access
+   (something like "read and change your data on meet.google.com").
+   Click "Add extension" / "Confirm". That's normal - it's how the
+   sticker button gets added to the chat, nothing else.
+
+7. Done. You don't need to repeat this unless you delete the folder.
+
+
+HOW TO USE IT
+--------------
+1. Go to meet.google.com and join/start a call.
+2. Open the in-call chat (the message icon).
+3. You'll see a small round button (looks like a bandage: 🩹) next to the
+   message box. Click it.
+4. A little tray pops up with all the stickers, grouped into packs, with
+   a search box at the top. Type to search, or scroll.
+5. Click a sticker - it gets sent to the chat automatically.
+
+
+IMPORTANT - please read this part
+-----------------------------------
+Stickers only show up as real pictures for people who ALSO have this
+extension installed. If someone in the call doesn't have it, they'll see
+a short line of text instead of the picture (something like
+":stkr:praise/jhakaas:") - that's expected, not a bug. Get everyone
+in your group to install it once and it works for all of you.
+
+New stickers we add later show up for you automatically - you never need
+to redownload or reinstall for that. You only need to reinstall if the
+button itself stops working after a Google Meet update (rare).
+
+
+IF SOMETHING LOOKS BROKEN
+---------------------------
+- Button not showing? Refresh the Meet tab, make sure the chat panel is
+  actually open.
+- Stickers not sending? Try clicking directly in the chat box once, then
+  try the sticker again.
+- Still stuck? Open the sticker tray, press F12 to open Chrome DevTools,
+  click the "Console" tab, look for lines starting with [KDS], and send a
+  screenshot to Shahzan.
+
+
+Made for the Kasukabe Defense crew. Have fun with it. 🩹

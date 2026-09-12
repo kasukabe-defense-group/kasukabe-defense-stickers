@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor
+.vscode/
+.idea/
+
+# original sticker files kept locally, not shipped
+stickers-source/
+
+# packaged release zip (attached to GitHub Releases manually, not committed)
+dist/
