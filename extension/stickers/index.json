@@ -4278,6 +4278,150 @@
         "punjabi"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "dekhun-toh-group-mai",
+      "pack": "reactions",
+      "name": "Dekhun Toh Group Mai",
+      "file": "packs/reactions/dekhun-toh-group-mai.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "peeking",
+        "group chat",
+        "spying",
+        "funny",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "jerry-train-tracks",
+      "pack": "reactions",
+      "name": "Jerry Train Tracks",
+      "file": "packs/reactions/jerry-train-tracks.webp",
+      "type": "webp",
+      "tags": [
+        "tom and jerry",
+        "cartoon",
+        "peril",
+        "funny",
+        "classic",
+        "tied up"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-watery-eyes-hand",
+      "pack": "reactions",
+      "name": "Cat Watery Eyes Hand",
+      "file": "packs/reactions/cat-watery-eyes-hand.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "sad",
+        "watery eyes",
+        "cute",
+        "pleading",
+        "hand"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "movie-couple-beach-embrace",
+      "pack": "praise",
+      "name": "Movie Couple Beach Embrace",
+      "file": "packs/praise/movie-couple-beach-embrace.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "embrace",
+        "beach",
+        "romantic",
+        "movie",
+        "hug"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "panda-office-rage",
+      "pack": "roast",
+      "name": "Panda Office Rage",
+      "file": "packs/roast/panda-office-rage.webp",
+      "type": "webp",
+      "tags": [
+        "panda",
+        "rage",
+        "office",
+        "funny",
+        "smash",
+        "viral"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "leo-dicaprio-cheers",
+      "pack": "praise",
+      "name": "Leo Dicaprio Cheers",
+      "file": "packs/praise/leo-dicaprio-cheers.webp",
+      "type": "webp",
+      "tags": [
+        "leonardo dicaprio",
+        "gatsby",
+        "smirk",
+        "cheers",
+        "meme",
+        "movie"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "hech-mhanat-hoto-mi",
+      "pack": "roast",
+      "name": "Hech Mhanat Hoto Mi",
+      "file": "packs/roast/hech-mhanat-hoto-mi.webp",
+      "type": "webp",
+      "tags": [
+        "marathi",
+        "movie",
+        "gesture",
+        "sarcasm",
+        "meme",
+        "elderly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "corgi-guilty-side-eye",
+      "pack": "reactions",
+      "name": "Corgi Guilty Side Eye",
+      "file": "packs/reactions/corgi-guilty-side-eye.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "corgi",
+        "guilty",
+        "side eye",
+        "sad",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-penguin-snow",
+      "pack": "reactions",
+      "name": "Baby Penguin Snow",
+      "file": "packs/reactions/baby-penguin-snow.webp",
+      "type": "webp",
+      "tags": [
+        "penguin",
+        "cute",
+        "snow",
+        "baby animal",
+        "winter",
+        "animal"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
