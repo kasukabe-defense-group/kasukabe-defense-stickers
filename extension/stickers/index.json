@@ -3558,6 +3558,134 @@
         "closeup"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "otter-hug-toy",
+      "pack": "reactions",
+      "name": "Otter Hug Toy",
+      "file": "packs/reactions/otter-hug-toy.webp",
+      "type": "webp",
+      "tags": [
+        "otter",
+        "hug",
+        "cute",
+        "animal",
+        "toy",
+        "cuddle"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "illustrated-couple-walk",
+      "pack": "praise",
+      "name": "Illustrated Couple Walk",
+      "file": "packs/praise/illustrated-couple-walk.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "illustration",
+        "aesthetic",
+        "walking",
+        "cute",
+        "art"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "movie-couple-embrace-bw",
+      "pack": "praise",
+      "name": "Movie Couple Embrace Bw",
+      "file": "packs/praise/movie-couple-embrace-bw.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "embrace",
+        "movie",
+        "comfort",
+        "black and white",
+        "emotional"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "couple-close-kiss-bw",
+      "pack": "praise",
+      "name": "Couple Close Kiss Bw",
+      "file": "packs/praise/couple-close-kiss-bw.webp",
+      "type": "webp",
+      "tags": [
+        "couple",
+        "kiss",
+        "romantic",
+        "movie",
+        "black and white",
+        "close"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "happy-walk-character-yellow",
+      "pack": "reactions",
+      "name": "Happy Walk Character Yellow",
+      "file": "packs/reactions/happy-walk-character-yellow.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "cartoon",
+        "walking",
+        "happy",
+        "simple",
+        "yellow"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "movie-scene-group-white",
+      "pack": "reactions",
+      "name": "Movie Scene Group White",
+      "file": "packs/reactions/movie-scene-group-white.webp",
+      "type": "webp",
+      "tags": [
+        "movie",
+        "scene",
+        "group",
+        "gathering",
+        "hindi",
+        "drama"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-big-smile-teeth",
+      "pack": "reactions",
+      "name": "Kid Big Smile Teeth",
+      "file": "packs/reactions/kid-big-smile-teeth.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "smile",
+        "teeth",
+        "happy",
+        "closeup",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-powder-face-unimpressed",
+      "pack": "reactions",
+      "name": "Baby Powder Face Unimpressed",
+      "file": "packs/reactions/baby-powder-face-unimpressed.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "powder",
+        "unimpressed",
+        "bath",
+        "deadpan",
+        "cute"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
