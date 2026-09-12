@@ -1199,6 +1199,156 @@
         "praise"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "face-in-hands",
+      "pack": "reactions",
+      "name": "Face In Hands",
+      "file": "packs/reactions/face-in-hands.webp",
+      "type": "webp",
+      "tags": [
+        "facepalm",
+        "despair",
+        "tired",
+        "done",
+        "exhausted",
+        "anime",
+        "over-it"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "heart-hands-cute",
+      "pack": "praise",
+      "name": "Heart Hands Cute",
+      "file": "packs/praise/heart-hands-cute.webp",
+      "type": "webp",
+      "tags": [
+        "love",
+        "heart",
+        "cute",
+        "wholesome",
+        "aww",
+        "affection"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-praying-hearts",
+      "pack": "praise",
+      "name": "Cat Praying Hearts",
+      "file": "packs/praise/cat-praying-hearts.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "cute",
+        "love",
+        "please",
+        "wholesome",
+        "blessed",
+        "hearts"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "shiba-stare",
+      "pack": "reactions",
+      "name": "Shiba Stare",
+      "file": "packs/reactions/shiba-stare.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "shiba",
+        "unimpressed",
+        "stare",
+        "serious",
+        "done",
+        "judging"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "sheep-baaa",
+      "pack": "reactions",
+      "name": "Sheep Baaa",
+      "file": "packs/reactions/sheep-baaa.webp",
+      "type": "webp",
+      "tags": [
+        "sheep",
+        "baa",
+        "random",
+        "funny",
+        "animal",
+        "confused"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "elmo-fire-chaos",
+      "pack": "reactions",
+      "name": "Elmo Fire Chaos",
+      "file": "packs/reactions/elmo-fire-chaos.webp",
+      "type": "webp",
+      "tags": [
+        "elmo",
+        "fire",
+        "chaos",
+        "meltdown",
+        "everything-is-fine",
+        "mayhem",
+        "burning"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-monk-meditate",
+      "pack": "reactions",
+      "name": "Cat Monk Meditate",
+      "file": "packs/reactions/cat-monk-meditate.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "meditate",
+        "zen",
+        "calm",
+        "monk",
+        "chill",
+        "peace"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "maze-le-raha-hai-tu",
+      "pack": "roast",
+      "name": "Maze Le Raha Hai Tu",
+      "file": "packs/roast/maze-le-raha-hai-tu.webp",
+      "type": "webp",
+      "tags": [
+        "akshay kumar",
+        "hindi",
+        "sarcasm",
+        "roast",
+        "teasing",
+        "bollywood",
+        "enjoying"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chad-smug",
+      "pack": "praise",
+      "name": "Chad Smug",
+      "file": "packs/praise/chad-smug.webp",
+      "type": "webp",
+      "tags": [
+        "chad",
+        "smug",
+        "confident",
+        "wojak",
+        "meme",
+        "based"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
