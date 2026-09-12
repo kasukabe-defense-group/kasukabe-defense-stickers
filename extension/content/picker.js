@@ -13,6 +13,8 @@
   let lastQuery = "";
 
   const BTN_SIZE = 36;
+  const TRAY_WIDTH = 340;
+  const CELL_SIZE = 96; // ~3 per row at TRAY_WIDTH - bigger, more readable stickers
 
   const STYLE = `
     :host { all: initial; }
@@ -26,7 +28,7 @@
     }
     .btn:hover { filter: brightness(1.08); transform: scale(1.04); }
     .tray {
-      position: fixed; z-index: 2147483000; width: 320px; max-height: 400px;
+      position: fixed; z-index: 2147483000; width: ${TRAY_WIDTH}px; max-height: 440px;
       background: #1f1f24; color: #eee; border-radius: 12px; overflow: hidden;
       box-shadow: 0 10px 34px rgba(0,0,0,.55); display: flex; flex-direction: column;
     }
@@ -46,8 +48,8 @@
       padding: 0 10px 10px; overflow-y: auto;
     }
     .cell {
-      width: 62px; height: 62px; flex: 0 0 auto;
-      background: #2a2a31; border-radius: 8px; padding: 6px; cursor: pointer;
+      width: ${CELL_SIZE}px; height: ${CELL_SIZE}px; flex: 0 0 auto;
+      background: #2a2a31; border-radius: 8px; padding: 8px; cursor: pointer;
       display: flex; align-items: center; justify-content: center;
     }
     .cell:hover { background: #3b3b45; }
@@ -110,7 +112,7 @@
     btn.style.top = Math.max(6, btnTop) + "px";
 
     if (!tray.hidden) {
-      const w = 320;
+      const w = TRAY_WIDTH;
       tray.style.left = Math.max(6, Math.min(r.right - w, innerWidth - w - 8)) + "px";
       // Anchor the tray's BOTTOM to just above the input, not a guessed top -
       // this way it always sits flush against the chat box no matter how tall
