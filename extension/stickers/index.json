@@ -4582,6 +4582,150 @@
         "meme"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "jerry-in-cup-curious",
+      "pack": "reactions",
+      "name": "Jerry In Cup Curious",
+      "file": "packs/reactions/jerry-in-cup-curious.webp",
+      "type": "webp",
+      "tags": [
+        "tom and jerry",
+        "cartoon",
+        "curious",
+        "cup",
+        "classic",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "shit-is-complex-math",
+      "pack": "roast",
+      "name": "Shit Is Complex Math",
+      "file": "packs/roast/shit-is-complex-math.webp",
+      "type": "webp",
+      "tags": [
+        "profanity",
+        "math",
+        "pun",
+        "meme",
+        "funny",
+        "complex"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "crying-bear-cute",
+      "pack": "reactions",
+      "name": "Crying Bear Cute",
+      "file": "packs/reactions/crying-bear-cute.webp",
+      "type": "webp",
+      "tags": [
+        "bear",
+        "crying",
+        "sad",
+        "cute",
+        "cartoon",
+        "tears"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-hula-dance",
+      "pack": "reactions",
+      "name": "Cat Hula Dance",
+      "file": "packs/reactions/cat-hula-dance.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "dance",
+        "hula",
+        "cute",
+        "funny",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "nana-patekar-serious",
+      "pack": "roast",
+      "name": "Nana Patekar Serious",
+      "file": "packs/roast/nana-patekar-serious.webp",
+      "type": "webp",
+      "tags": [
+        "bollywood",
+        "hindi",
+        "movie",
+        "serious",
+        "angry",
+        "actor"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "teen-guy-amused-mocking",
+      "pack": "reactions",
+      "name": "Teen Guy Amused Mocking",
+      "file": "packs/reactions/teen-guy-amused-mocking.webp",
+      "type": "webp",
+      "tags": [
+        "guy",
+        "amused",
+        "mocking",
+        "funny",
+        "meme",
+        "teen"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-standing-hind-legs",
+      "pack": "reactions",
+      "name": "Cat Standing Hind Legs",
+      "file": "packs/reactions/cat-standing-hind-legs.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "standing",
+        "funny",
+        "animal",
+        "balance",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blurry-alpaca-dark",
+      "pack": "reactions",
+      "name": "Blurry Alpaca Dark",
+      "file": "packs/reactions/blurry-alpaca-dark.webp",
+      "type": "webp",
+      "tags": [
+        "alpaca",
+        "blurry",
+        "dark",
+        "animal",
+        "weird",
+        "mysterious"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kids-dancing-traditional",
+      "pack": "reactions",
+      "name": "Kids Dancing Traditional",
+      "file": "packs/reactions/kids-dancing-traditional.webp",
+      "type": "webp",
+      "tags": [
+        "kids",
+        "dance",
+        "traditional",
+        "outdoor",
+        "playful",
+        "clothing"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
