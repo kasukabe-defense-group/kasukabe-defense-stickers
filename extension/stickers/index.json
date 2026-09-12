@@ -3206,6 +3206,54 @@
         "funny"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "political-crowd-photo",
+      "pack": "roast",
+      "name": "Political Crowd Photo",
+      "file": "packs/roast/political-crowd-photo.webp",
+      "type": "webp",
+      "tags": [
+        "political",
+        "crowd",
+        "greeting",
+        "public figure",
+        "news",
+        "folded hands"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "trump-fist-pump",
+      "pack": "roast",
+      "name": "Trump Fist Pump",
+      "file": "packs/roast/trump-fist-pump.webp",
+      "type": "webp",
+      "tags": [
+        "trump",
+        "politics",
+        "fist pump",
+        "meme",
+        "viral",
+        "news"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "modi-bruh",
+      "pack": "roast",
+      "name": "Modi Bruh",
+      "file": "packs/roast/modi-bruh.webp",
+      "type": "webp",
+      "tags": [
+        "modi",
+        "politics",
+        "bruh",
+        "meme",
+        "hindi",
+        "news"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
