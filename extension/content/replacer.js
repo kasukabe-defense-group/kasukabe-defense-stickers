@@ -59,8 +59,8 @@
   // Enforce: sticker visible -> no link. Sticker not visible -> link stays
   // (handled by simply not calling this in the unresolved-placeholder case).
   function hideLeftoverLink(container, st) {
-    if (!container || !st || !st.file) return;
-    const needle = st.file; // e.g. "packs/praise/jhakaas.jpg" - unique per sticker
+    if (!container || !st) return;
+    const needle = NS.library.linkNeedle(st); // e.g. "p=praise&i=jhakaas" - unique per sticker
     const scopes = [container, container.parentElement].filter(Boolean);
     for (const scope of scopes) {
       if (!scope.querySelectorAll) continue;
@@ -100,10 +100,10 @@
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
       frag.appendChild(buildSticker(m[1].toLowerCase(), m[2].toLowerCase(), container));
       last = m.index + m[0].length;
-      // swallow " <image url>" appended by the link fallback, when it's still
-      // plain text right here (the common case; see hideLeftoverLink for the
-      // case where Meet already turned it into a separate <a> element)
-      const um = text.slice(last).match(/^\s+https?:\/\/[^\s]+\.(?:svg|png|gif|webp|jpg|jpeg)(\?[^\s]*)?/i);
+      // swallow " <landing page url>" appended by the link fallback, when
+      // it's still plain text right here (the common case; see
+      // hideLeftoverLink for when Meet already turned it into an <a>)
+      const um = text.slice(last).match(/^\s+https?:\/\/\S+/i);
       if (um) last += um[0].length;
     }
     if (!any) return;
@@ -121,14 +121,14 @@
     if (!a || a.hasAttribute("data-kds-hidden-link")) return;
     let href = a.getAttribute("href") || "";
     try { href = decodeURIComponent(href); } catch (e) {}
-    if (href.indexOf("/stickers/packs/") === -1) return; // fast reject: not one of ours
+    if (href.indexOf("/s.html?") === -1) return; // fast reject: not one of our landing links
     const scopes = [a.parentElement, a.parentElement && a.parentElement.parentElement].filter(Boolean);
     for (const scope of scopes) {
       const stickers = scope.querySelectorAll ? scope.querySelectorAll(".kds-sticker[data-kds-key]") : [];
       for (const s of stickers) {
         const [pack, id] = (s.dataset.kdsKey || "").split("/");
         const st = NS.library.resolve(pack, id);
-        if (st && href.indexOf(st.file) !== -1) {
+        if (st && href.indexOf(NS.library.linkNeedle(st)) !== -1) {
           a.style.display = "none";
           a.setAttribute("data-kds-hidden-link", "1");
           return;

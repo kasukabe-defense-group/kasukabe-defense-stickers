@@ -27,6 +27,11 @@
     // CDN path must include that prefix.
     cdnBase: `https://cdn.jsdelivr.net/gh/${GH_USER}/${REPO}@${BRANCH}/extension/stickers`,
 
+    // GitHub Pages site for the same repo - hosts s.html, the landing page
+    // shown to people WITHOUT the extension when they click the fallback
+    // link (instead of a bare image with zero context).
+    pagesBase: `https://${GH_USER}.github.io/${REPO}`,
+
     stickerSizePx: 140,     // how big stickers render in chat
     linkFallback: true,     // also append the image URL so people without the extension get a clickable link (cdn mode only)
     debug: true,            // console logging with the [KDS] prefix

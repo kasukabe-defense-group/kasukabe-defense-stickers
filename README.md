@@ -2,14 +2,15 @@
 
 A Chrome/Edge/Brave extension that adds a sticker picker to **Google Meet's in-call
 chat**. Pick a sticker → it posts to chat → everyone who also has the extension sees
-it as an inline image. People without the extension see a short code (and, in CDN
-mode, a clickable link).
+it as an inline image. People without the extension see a short code and (in CDN
+mode) a link to a small explainer page showing the sticker plus how to get the
+extension - not the bare image.
 
 ---
 
 ## Download (for teammates)
 
-**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.7/kasukabe-defense-stickers-v1.0.7.zip)**
+**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.8/kasukabe-defense-stickers-v1.0.8.zip)**
 — click it, unzip, then see [Install](#install-all-of-chrome--edge--brave) below.
 
 Don't use GitHub's own "Source code (zip)" link if you see it on the Releases
@@ -33,7 +34,23 @@ extension/               <- the browser extension (load this folder unpacked)
     index.json
     packs/<pack>/<id>.<ext>
 stickers-source/          <- drop your original sticker files here; not shipped
+s.html                    <- landing page for the link-fallback (served via GitHub Pages)
+.nojekyll                 <- tells GitHub Pages to serve files as-is, no processing
 ```
+
+## GitHub Pages (one-time setup, for the fallback link's landing page)
+
+The link-fallback shown to non-extension users points at `s.html`, hosted for
+free on the same repo via GitHub Pages. This needs enabling once, manually
+(requires repo admin access, not something a git push can do):
+
+1. `github.com/kasukabe-defense-group/kasukabe-defense-stickers/settings/pages`
+2. Source: **Deploy from a branch**
+3. Branch: **main**, folder: **/ (root)**
+4. Save
+
+After a minute or two it's live at
+`https://kasukabe-defense-group.github.io/kasukabe-defense-stickers/s.html`.
 
 ## Install (all of Chrome / Edge / Brave)
 

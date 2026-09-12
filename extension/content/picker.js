@@ -210,7 +210,10 @@
   async function pick(s) {
     let msg = NS.marker.encode(s.pack, s.id);
     if (cfg.linkFallback && cfg.source === "cdn") {
-      msg += " " + NS.library.rawUrl(s);
+      // A landing page, not the bare image - explains what this is and how
+      // to get the extension, for whoever doesn't have it. Hidden entirely
+      // for anyone who does (see replacer.js).
+      msg += " " + NS.library.landingUrl(s);
     }
     close();
     await NS.sender.send(msg, curCtx);

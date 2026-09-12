@@ -86,6 +86,22 @@
       : chrome.runtime.getURL(`stickers/${st.file}`);
   }
 
+  // The distinctive substring that identifies THIS sticker inside its own
+  // link-fallback URL. Used both to build the URL (below) and, in replacer.js,
+  // to recognise and hide that same link once the sticker itself has
+  // rendered. Keeping both uses on this one function keeps them in sync.
+  function linkNeedle(st) {
+    return `p=${st.pack}&i=${st.id}`;
+  }
+
+  // Where the link-fallback points: a small hosted page (GitHub Pages, same
+  // repo) that shows the sticker PLUS an explanation + install link - not the
+  // bare image file. Only extension users ever have this hidden from them;
+  // everyone else gets the full context when they click it.
+  function landingUrl(st) {
+    return `${cfg.pagesBase}/s.html?${linkNeedle(st)}`;
+  }
+
   // CSP-safe URL for putting into an <img> on the Meet page.
   async function displayUrl(st) {
     const key = `${st.pack}/${st.id}`;
@@ -148,5 +164,5 @@
     }
   }
 
-  NS.library = { load, resolve, search, rawUrl, displayUrl, clearCache, checkForUpdate, get index() { return _index; } };
+  NS.library = { load, resolve, search, rawUrl, landingUrl, linkNeedle, displayUrl, clearCache, checkForUpdate, get index() { return _index; } };
 })();

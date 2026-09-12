@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Kasukabe Defense Stickers",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Send stickers in Google Meet chat. Everyone who also has the extension sees them inline.",
   "permissions": ["storage"],
   "host_permissions": ["https://cdn.jsdelivr.net/*"],
