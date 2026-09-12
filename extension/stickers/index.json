@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-09-12",
   "packs": [
     {
@@ -544,6 +544,661 @@
         "hindi"
       ],
       "added": "2026-09-11"
+    },
+    {
+      "id": "shocked-celebration-crowd",
+      "pack": "reactions",
+      "name": "Shocked Celebration",
+      "file": "packs/reactions/shocked-celebration-crowd.webp",
+      "type": "webp",
+      "tags": [
+        "shocked",
+        "excited",
+        "screaming",
+        "crowd",
+        "celebration",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-profile-smile",
+      "pack": "reactions",
+      "name": "Baby Smile",
+      "file": "packs/reactions/baby-profile-smile.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "cute",
+        "smile",
+        "wholesome",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "toot-chuka-hu-yar",
+      "pack": "reactions",
+      "name": "Toot Chuka Hu Yar",
+      "file": "packs/reactions/toot-chuka-hu-yar.webp",
+      "type": "webp",
+      "tags": [
+        "toot chuka hu yar",
+        "i'm broken",
+        "defeated",
+        "tired",
+        "facepalm",
+        "hindi"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "dard-docx",
+      "pack": "reactions",
+      "name": "Dard.docx",
+      "file": "packs/reactions/dard-docx.webp",
+      "type": "webp",
+      "tags": [
+        "dard docx",
+        "pain document",
+        "relatable",
+        "shared pain",
+        "funny",
+        "hindi"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "boy-outdoor-look",
+      "pack": "reactions",
+      "name": "Boy Look",
+      "file": "packs/reactions/boy-outdoor-look.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "look",
+        "outdoor",
+        "neutral reaction",
+        "side-eye"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-thumbs-up",
+      "pack": "praise",
+      "name": "Cat Thumbs Up",
+      "file": "packs/praise/cat-thumbs-up.webp",
+      "type": "webp",
+      "tags": [
+        "thumbs up",
+        "approve",
+        "good",
+        "cat",
+        "cute",
+        "nice"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "rest-saying-stupid-things",
+      "pack": "roast",
+      "name": "Rest You're Saying Stupid Things",
+      "file": "packs/roast/rest-saying-stupid-things.webp",
+      "type": "webp",
+      "tags": [
+        "rest",
+        "stupid things",
+        "aliens",
+        "mock",
+        "dismiss",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "head-in-hands-shawl",
+      "pack": "reactions",
+      "name": "Head In Hands",
+      "file": "packs/reactions/head-in-hands-shawl.webp",
+      "type": "webp",
+      "tags": [
+        "exasperated",
+        "frustrated",
+        "head in hands",
+        "tired",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kitten-on-bed",
+      "pack": "reactions",
+      "name": "Kitten On Bed",
+      "file": "packs/reactions/kitten-on-bed.webp",
+      "type": "webp",
+      "tags": [
+        "kitten",
+        "cute",
+        "laptop",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "dramatic-light-flare-smile",
+      "pack": "reactions",
+      "name": "Dramatic Smile",
+      "file": "packs/reactions/dramatic-light-flare-smile.webp",
+      "type": "webp",
+      "tags": [
+        "dramatic",
+        "smug",
+        "light flare",
+        "smile",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ronaldo-robe-selfie",
+      "pack": "praise",
+      "name": "Ronaldo Selfie",
+      "file": "packs/praise/ronaldo-robe-selfie.webp",
+      "type": "webp",
+      "tags": [
+        "ronaldo",
+        "happy",
+        "selfie",
+        "celebration",
+        "smile"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-typing-computer",
+      "pack": "reactions",
+      "name": "Cat Typing",
+      "file": "packs/reactions/cat-typing-computer.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "computer",
+        "busy",
+        "typing",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "umar-badti-jaa-rahi-hai",
+      "pack": "roast",
+      "name": "Umar Badti Jaa Rahi Hai",
+      "file": "packs/roast/umar-badti-jaa-rahi-hai.webp",
+      "type": "webp",
+      "tags": [
+        "umar badti jaa rahi hai",
+        "no maturity",
+        "sarcastic",
+        "age",
+        "roast",
+        "hindi"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "oooo-bencho",
+      "pack": "reactions",
+      "name": "Oooo Bencho",
+      "file": "packs/reactions/oooo-bencho.webp",
+      "type": "webp",
+      "tags": [
+        "oooo bencho",
+        "vince mcmahon",
+        "shocked",
+        "exclaim",
+        "reaction",
+        "hindi"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "youre-my-favorite",
+      "pack": "roast",
+      "name": "You're My Favorite",
+      "file": "packs/roast/youre-my-favorite.webp",
+      "type": "webp",
+      "tags": [
+        "you're my favorite",
+        "trump",
+        "sarcastic",
+        "meme",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "phukoge",
+      "pack": "roast",
+      "name": "Phukoge",
+      "file": "packs/roast/phukoge.webp",
+      "type": "webp",
+      "tags": [
+        "phukoge",
+        "smoking slang",
+        "drug reference meme",
+        "hindi",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "the-fuck-dog",
+      "pack": "reactions",
+      "name": "The Fuck?",
+      "file": "packs/reactions/the-fuck-dog.webp",
+      "type": "webp",
+      "tags": [
+        "the fuck",
+        "confused",
+        "shocked",
+        "dog",
+        "nsfw language",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "reacted-to-your-message",
+      "pack": "reactions",
+      "name": "Reacted To Your Message",
+      "file": "packs/reactions/reacted-to-your-message.webp",
+      "type": "webp",
+      "tags": [
+        "reacted to your message",
+        "salman khan",
+        "notification parody",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ronaldo-field-smile",
+      "pack": "praise",
+      "name": "Ronaldo Celebration",
+      "file": "packs/praise/ronaldo-field-smile.webp",
+      "type": "webp",
+      "tags": [
+        "ronaldo",
+        "celebration",
+        "happy",
+        "field",
+        "smile"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "gandhi-money-gesture",
+      "pack": "roast",
+      "name": "Gandhi Money Gesture",
+      "file": "packs/roast/gandhi-money-gesture.webp",
+      "type": "webp",
+      "tags": [
+        "gandhi",
+        "money gesture",
+        "sarcastic",
+        "costs money",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "all-these-flavors-salty",
+      "pack": "roast",
+      "name": "All These Flavors And You Chose To Be Salty",
+      "file": "packs/roast/all-these-flavors-salty.webp",
+      "type": "webp",
+      "tags": [
+        "all these flavors",
+        "salty",
+        "insult",
+        "personality",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "marna-nahi-assignment",
+      "pack": "reactions",
+      "name": "Marna Nahi Abhi Assignment Karna Hai",
+      "file": "packs/reactions/marna-nahi-assignment.webp",
+      "type": "webp",
+      "tags": [
+        "marna nahi",
+        "assignment",
+        "kermit",
+        "relatable",
+        "exhausted",
+        "hindi"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "living-large-money",
+      "pack": "praise",
+      "name": "Living Large",
+      "file": "packs/praise/living-large-money.webp",
+      "type": "webp",
+      "tags": [
+        "flex",
+        "money",
+        "swag",
+        "confident",
+        "living large"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "jo-bhi-aata-hai-chot",
+      "pack": "reactions",
+      "name": "Jo Bhi Aata Hai",
+      "file": "packs/reactions/jo-bhi-aata-hai-chot.webp",
+      "type": "webp",
+      "tags": [
+        "jo bhi aata hai",
+        "chot",
+        "sad",
+        "emotional",
+        "hindi",
+        "quote"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blurry-animal-reaction",
+      "pack": "reactions",
+      "name": "Blurry Reaction",
+      "file": "packs/reactions/blurry-animal-reaction.webp",
+      "type": "webp",
+      "tags": [
+        "blurry",
+        "animal",
+        "reaction",
+        "confused",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "eyebrow-threading-transition",
+      "pack": "reactions",
+      "name": "Glow Up Transition",
+      "file": "packs/reactions/eyebrow-threading-transition.webp",
+      "type": "webp",
+      "tags": [
+        "transformation",
+        "before after",
+        "glow up",
+        "fast forward",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "white-cat-petted",
+      "pack": "reactions",
+      "name": "White Cat Petted",
+      "file": "packs/reactions/white-cat-petted.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "cute",
+        "petted",
+        "wide eyes",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-silencing-cat",
+      "pack": "roast",
+      "name": "Cat Silencing Cat",
+      "file": "packs/roast/cat-silencing-cat.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "shut up",
+        "quiet",
+        "funny",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "elmo-chaos",
+      "pack": "roast",
+      "name": "Chaos Elmo",
+      "file": "packs/roast/elmo-chaos.webp",
+      "type": "webp",
+      "tags": [
+        "elmo",
+        "chaos",
+        "drug reference meme",
+        "funny",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-tongue-out",
+      "pack": "reactions",
+      "name": "Baby Tongue Out",
+      "file": "packs/reactions/baby-tongue-out.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "tongue out",
+        "silly",
+        "cute",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mbaapre",
+      "pack": "reactions",
+      "name": "MBaapre",
+      "file": "packs/reactions/mbaapre.webp",
+      "type": "webp",
+      "tags": [
+        "mbaapre",
+        "mbappe",
+        "wordplay",
+        "funny",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "small-kitten-standing",
+      "pack": "reactions",
+      "name": "Small Kitten",
+      "file": "packs/reactions/small-kitten-standing.webp",
+      "type": "webp",
+      "tags": [
+        "kitten",
+        "cute",
+        "standing",
+        "small",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "aag-laga-di",
+      "pack": "praise",
+      "name": "Aag Laga Di",
+      "file": "packs/praise/aag-laga-di.webp",
+      "type": "webp",
+      "tags": [
+        "aag laga di",
+        "fire",
+        "hype",
+        "amazing",
+        "hindi",
+        "praise"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "detergent-drink-meme",
+      "pack": "roast",
+      "name": "Detergent Drink",
+      "file": "packs/roast/detergent-drink-meme.webp",
+      "type": "webp",
+      "tags": [
+        "bizarre",
+        "gross out",
+        "ad parody",
+        "funny",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "smug-sarcastic-duo",
+      "pack": "roast",
+      "name": "Smug Duo",
+      "file": "packs/roast/smug-sarcastic-duo.webp",
+      "type": "webp",
+      "tags": [
+        "smug",
+        "sarcastic",
+        "tease",
+        "mock",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "retro-cool-reaction",
+      "pack": "reactions",
+      "name": "Retro Cool",
+      "file": "packs/reactions/retro-cool-reaction.webp",
+      "type": "webp",
+      "tags": [
+        "retro",
+        "cool",
+        "smug",
+        "reaction",
+        "old movie"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cool-grandma-peace",
+      "pack": "reactions",
+      "name": "Cool Grandma",
+      "file": "packs/reactions/cool-grandma-peace.webp",
+      "type": "webp",
+      "tags": [
+        "grandma",
+        "peace sign",
+        "headphones",
+        "cool",
+        "celebration"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "netradan-kar-de",
+      "pack": "roast",
+      "name": "Netradan Kar De",
+      "file": "packs/roast/netradan-kar-de.webp",
+      "type": "webp",
+      "tags": [
+        "netradan kar de",
+        "ajay devgn",
+        "savage comeback",
+        "insult",
+        "hindi",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "you-are-a-stick",
+      "pack": "roast",
+      "name": "You Are A Stick",
+      "file": "packs/roast/you-are-a-stick.webp",
+      "type": "webp",
+      "tags": [
+        "you are",
+        "fanta",
+        "stick",
+        "thin",
+        "insult",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "red-glowing-eyes",
+      "pack": "reactions",
+      "name": "Red Glowing Eyes",
+      "file": "packs/reactions/red-glowing-eyes.webp",
+      "type": "webp",
+      "tags": [
+        "red eyes",
+        "intense",
+        "angry",
+        "edit",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "orange-cat-unimpressed",
+      "pack": "reactions",
+      "name": "Unimpressed Cat",
+      "file": "packs/reactions/orange-cat-unimpressed.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "unimpressed",
+        "annoyed",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "reading-this-bullshit",
+      "pack": "roast",
+      "name": "Reading This Bullshit",
+      "file": "packs/roast/reading-this-bullshit.webp",
+      "type": "webp",
+      "tags": [
+        "let me put on my glasses",
+        "sarcastic",
+        "disbelief",
+        "profanity",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "crowd-celebration-elderly",
+      "pack": "praise",
+      "name": "Crowd Celebration",
+      "file": "packs/praise/crowd-celebration-elderly.webp",
+      "type": "webp",
+      "tags": [
+        "celebration",
+        "crowd",
+        "happy",
+        "cheering",
+        "praise"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
