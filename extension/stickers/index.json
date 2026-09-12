@@ -3078,6 +3078,134 @@
         "tears"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "guy-classroom-gesture",
+      "pack": "reactions",
+      "name": "Guy Classroom Gesture",
+      "file": "packs/reactions/guy-classroom-gesture.webp",
+      "type": "webp",
+      "tags": [
+        "guy",
+        "classroom",
+        "gesture",
+        "funny",
+        "meme",
+        "reaction"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "penguin-madagascar-shock",
+      "pack": "reactions",
+      "name": "Penguin Madagascar Shock",
+      "file": "packs/reactions/penguin-madagascar-shock.webp",
+      "type": "webp",
+      "tags": [
+        "penguin",
+        "madagascar",
+        "shock",
+        "wide eyes",
+        "movie",
+        "surprised"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "chibi-iron-man",
+      "pack": "praise",
+      "name": "Chibi Iron Man",
+      "file": "packs/praise/chibi-iron-man.webp",
+      "type": "webp",
+      "tags": [
+        "iron man",
+        "marvel",
+        "chibi",
+        "cute",
+        "superhero",
+        "hands up"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "green-creature-headphones",
+      "pack": "reactions",
+      "name": "Green Creature Headphones",
+      "file": "packs/reactions/green-creature-headphones.webp",
+      "type": "webp",
+      "tags": [
+        "creature",
+        "headphones",
+        "weird",
+        "small",
+        "green",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ruko-zra-sabr-kro",
+      "pack": "reactions",
+      "name": "Ruko Zra Sabr Kro",
+      "file": "packs/reactions/ruko-zra-sabr-kro.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "urdu",
+        "patience",
+        "wait",
+        "hand up",
+        "content creator"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kid-heart-hands-cute",
+      "pack": "praise",
+      "name": "Kid Heart Hands Cute",
+      "file": "packs/praise/kid-heart-hands-cute.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "heart hands",
+        "cute",
+        "love",
+        "wholesome",
+        "affection"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mujhe-hurt-ho-raha-hai",
+      "pack": "roast",
+      "name": "Mujhe Hurt Ho Raha Hai",
+      "file": "packs/roast/mujhe-hurt-ho-raha-hai.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "bigg boss",
+        "reality show",
+        "funny",
+        "meme",
+        "hurt"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "shinchan-sharam-aati-hai",
+      "pack": "roast",
+      "name": "Shinchan Sharam Aati Hai",
+      "file": "packs/roast/shinchan-sharam-aati-hai.webp",
+      "type": "webp",
+      "tags": [
+        "shin chan",
+        "hindi",
+        "cartoon",
+        "shy",
+        "kasukabe",
+        "funny"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
