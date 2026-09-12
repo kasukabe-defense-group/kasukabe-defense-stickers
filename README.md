@@ -5,8 +5,6 @@ chat**. Pick a sticker → it posts to chat → everyone who also has the extens
 it as an inline image. People without the extension see a short code (and, in CDN
 mode, a clickable link).
 
-See [PRD.md](PRD.md) for the full design, the hard limits, and the decisions log.
-
 ---
 
 ## Download (for teammates)
@@ -35,7 +33,6 @@ extension/               <- the browser extension (load this folder unpacked)
     index.json
     packs/<pack>/<id>.<ext>
 stickers-source/          <- drop your original sticker files here; not shipped
-PRD.md
 ```
 
 ## Install (all of Chrome / Edge / Brave)
@@ -83,8 +80,9 @@ since CDN mode only covers the sticker *data*, not the extension's logic.
 
 The chat message is just text: `:stkr:<pack>/<id>:` (plus the image URL in CDN
 mode). Every client that has the extension swaps that code for the real image.
-That's the whole trick — and the reason both sides need the extension. This cannot
-be worked around on personal Gmail; see PRD.md §3.
+That's the whole trick — and the reason both sides need the extension. There's no
+way around that on personal Gmail: Meet chat only ever carries text, and only code
+running in your own browser can turn that text back into a picture.
 
 ## Adding stickers to the library
 

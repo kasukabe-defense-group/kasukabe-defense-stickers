@@ -12,3 +12,6 @@ stickers-source/
 
 # packaged release zip (attached to GitHub Releases manually, not committed)
 dist/
+
+# internal design doc - deliberately not published to the public repo
+PRD.md
