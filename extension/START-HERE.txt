@@ -2,6 +2,11 @@
  KASUKABE DEFENSE STICKERS - START HERE
 ========================================
 
+TIP: there's also a "START-HERE.html" file in this same folder - double-click
+it to open a nicer-looking, visual version of these same instructions in your
+browser. This .txt file is just the plain-text backup in case that doesn't work.
+
+
 What this is
 -------------
 A add-on for Chrome (also works on Edge/Brave) that lets you send stickers

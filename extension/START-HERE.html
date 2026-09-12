@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kasukabe Defense Stickers — Install Guide</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: #16161a; color: #eee;
+    font-family: Roboto, Arial, sans-serif; line-height: 1.5;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 32px 20px 60px; }
+  header { text-align: center; margin-bottom: 28px; }
+  header .emoji { font-size: 40px; }
+  h1 { font-size: 22px; margin: 8px 0 4px; }
+  header p { color: #999; font-size: 14px; margin: 0; }
+
+  h2 {
+    font-size: 15px; text-transform: uppercase; letter-spacing: .06em;
+    color: #FFB020; margin: 36px 0 14px; border-bottom: 1px solid #2a2a31; padding-bottom: 8px;
+  }
+
+  ol.steps { list-style: none; margin: 0; padding: 0; counter-reset: step; }
+  ol.steps li {
+    counter-increment: step;
+    display: flex; gap: 14px; align-items: flex-start;
+    background: #1f1f24; border-radius: 12px; padding: 14px 16px; margin-bottom: 10px;
+  }
+  ol.steps li::before {
+    content: counter(step);
+    flex: 0 0 28px; height: 28px; border-radius: 50%;
+    background: #FFB020; color: #1a1200; font-weight: 700; font-size: 14px;
+    display: flex; align-items: center; justify-content: center;
+  }
+  ol.steps li .txt { font-size: 14px; }
+  ol.steps li code {
+    background: #2a2a31; padding: 1px 6px; border-radius: 4px; font-size: 13px;
+  }
+  ol.steps li .shot {
+    margin-top: 8px; border-radius: 8px; max-width: 100%; display: block;
+  }
+
+  .box {
+    border-radius: 10px; padding: 14px 16px; font-size: 13px; margin-bottom: 14px;
+  }
+  .box.important { background: #3a2f00; border: 1px solid #4a3d00; color: #ffd36b; }
+  .box.trouble { background: #241f2e; border: 1px solid #352c47; color: #d8c9ff; }
+  .box b { color: inherit; }
+
+  footer { text-align: center; margin-top: 40px; font-size: 12px; color: #666; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="emoji">🩹</div>
+    <h1>Kasukabe Defense Stickers</h1>
+    <p>Install guide — takes about 2 minutes, one time only</p>
+  </header>
+
+  <h2>What this is</h2>
+  <p style="font-size:14px; color:#ccc;">
+    A browser add-on that lets you send stickers in Google Meet's in-call chat.
+    Click a button, pick a sticker, and it shows up as a real picture in the chat —
+    for everyone else who <b>also</b> has this installed.
+  </p>
+
+  <h2>Install it</h2>
+  <ol class="steps">
+    <li><div class="txt">You should already have this folder unzipped somewhere. <b>Keep it</b> —
+      don't delete it after installing, your browser keeps reading the extension straight from it.</div></li>
+    <li><div class="txt">Open Chrome (or Edge / Brave) and go to <code>chrome://extensions</code> — type
+      or paste that into the address bar and hit Enter.</div></li>
+    <li><div class="txt">Turn on <b>Developer mode</b> — it's a toggle switch, usually top-right of the page.</div></li>
+    <li><div class="txt">Click the <b>Load unpacked</b> button that appears once Developer mode is on.</div></li>
+    <li><div class="txt">In the folder picker, select <b>this folder</b> — the one this file is sitting in,
+      the one with <code>manifest.json</code> inside it.</div></li>
+    <li><div class="txt">Chrome shows a small permissions notice (something like "read and change your data on
+      meet.google.com"). Click <b>Add extension</b> / <b>Confirm</b> — that's normal, it's just how the sticker
+      button gets added to the chat.</div></li>
+    <li><div class="txt">Done. You won't need to repeat this unless you delete the folder.</div></li>
+  </ol>
+
+  <h2>Use it</h2>
+  <ol class="steps">
+    <li><div class="txt">Go to <code>meet.google.com</code> and join or start a call.</div></li>
+    <li><div class="txt">Open the in-call chat panel (the message bubble icon).</div></li>
+    <li><div class="txt">Look for a small round <b>🩹</b> button next to the message box — click it.</div></li>
+    <li><div class="txt">A tray pops up with all the stickers, grouped into packs, with a search box on top.
+      Type to search, or scroll.</div></li>
+    <li><div class="txt">Click a sticker — it's sent to the chat automatically.</div></li>
+  </ol>
+
+  <div class="box important">
+    <b>Please read this part:</b> stickers only show up as real pictures for people who
+    <b>also</b> have this extension installed. Someone without it sees a short line of text instead
+    (like <code>:stkr:praise/jhakaas:</code>) — that's expected, not a bug. Once everyone in the group
+    installs it, it works for all of you.
+    <br /><br />
+    New stickers added later show up for you automatically — no reinstall needed for that. You only
+    need to reinstall if the button itself stops working after a Google Meet update (rare, and we'll
+    tell you when that's the case).
+  </div>
+
+  <h2>If something looks broken</h2>
+  <div class="box trouble">
+    <b>Button not showing?</b> Refresh the Meet tab, make sure the chat panel is actually open.<br /><br />
+    <b>Stickers not sending?</b> Click directly in the chat box once, then try the sticker again.<br /><br />
+    <b>Still stuck?</b> Open the sticker tray, press <code>F12</code> for DevTools, click the
+    <b>Console</b> tab, look for lines starting with <code>[KDS]</code>, and share what you see.
+  </div>
+
+  <footer>Made for the Kasukabe Defense crew. Have fun with it. 🩹</footer>
+</div>
+</body>
+</html>

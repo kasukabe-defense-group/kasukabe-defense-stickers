@@ -63,6 +63,13 @@ After a minute or two it's live at
 To share with a teammate: send them the `extension/` folder (or a zip) and have
 them do the same. No store, no account, no cost.
 
+**Prefer pictures over these bullet points?** The download above includes
+[`extension/START-HERE.html`](extension/START-HERE.html) — a friendlier, visual
+version of the same steps. It's the first file most people will see after
+unzipping; double-click it to open it in a browser. You can also preview it
+before downloading anything, once GitHub Pages is enabled (see below):
+`https://kasukabe-defense-group.github.io/kasukabe-defense-stickers/extension/START-HERE.html`
+
 **Library right now:** 32 of your real stickers, imported from
 `Downloads/Stickers`, across 3 packs — `reactions` (13), `praise` (5),
 `roast` (14). One (`chala-jaa-bhosdike`) contains Hindi profanity — tagged
