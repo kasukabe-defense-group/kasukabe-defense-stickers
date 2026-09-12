@@ -4118,6 +4118,166 @@
         "meme"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "yanha-dard-hota-hai",
+      "pack": "reactions",
+      "name": "Yanha Dard Hota Hai",
+      "file": "packs/reactions/yanha-dard-hota-hai.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "cat",
+        "pain",
+        "cute",
+        "meme",
+        "pointing"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blurry-hamster-dance",
+      "pack": "reactions",
+      "name": "Blurry Hamster Dance",
+      "file": "packs/reactions/blurry-hamster-dance.webp",
+      "type": "webp",
+      "tags": [
+        "hamster",
+        "dance",
+        "blurry",
+        "funny",
+        "animal",
+        "small"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "guy-side-glance-smile",
+      "pack": "reactions",
+      "name": "Guy Side Glance Smile",
+      "file": "packs/reactions/guy-side-glance-smile.webp",
+      "type": "webp",
+      "tags": [
+        "guy",
+        "smile",
+        "side glance",
+        "reaction",
+        "funny",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-confused-skeptical",
+      "pack": "reactions",
+      "name": "Baby Confused Skeptical",
+      "file": "packs/reactions/baby-confused-skeptical.webp",
+      "type": "webp",
+      "tags": [
+        "baby",
+        "confused",
+        "skeptical",
+        "cute",
+        "doubtful",
+        "face"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "tum-mere-dost-ho",
+      "pack": "praise",
+      "name": "Tum Mere Dost Ho",
+      "file": "packs/praise/tum-mere-dost-ho.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "friend",
+        "salute",
+        "wholesome",
+        "kid",
+        "cute"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "sugar-g-silent",
+      "pack": "roast",
+      "name": "Sugar G Silent",
+      "file": "packs/roast/sugar-g-silent.webp",
+      "type": "webp",
+      "tags": [
+        "wordplay",
+        "insult",
+        "stick figure",
+        "meme",
+        "funny",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "gandhi-goli-mardi-joke",
+      "pack": "roast",
+      "name": "Gandhi Goli Mardi Joke",
+      "file": "packs/roast/gandhi-goli-mardi-joke.webp",
+      "type": "webp",
+      "tags": [
+        "gandhi",
+        "dark humor",
+        "hindi",
+        "assassination reference",
+        "joke",
+        "historical"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "ekdam-op-stickfigure",
+      "pack": "praise",
+      "name": "Ekdam Op Stickfigure",
+      "file": "packs/praise/ekdam-op-stickfigure.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "op",
+        "overpowered",
+        "stick figure",
+        "ok gesture",
+        "praise"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "garud-puran-alag-saza",
+      "pack": "roast",
+      "name": "Garud Puran Alag Saza",
+      "file": "packs/roast/garud-puran-alag-saza.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "movie",
+        "punishment",
+        "religious reference",
+        "sarcasm",
+        "roast"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "waheguru-ji-da-plan",
+      "pack": "roast",
+      "name": "Waheguru Ji Da Plan",
+      "file": "packs/roast/waheguru-ji-da-plan.webp",
+      "type": "webp",
+      "tags": [
+        "drake",
+        "golden temple",
+        "sikh",
+        "religious",
+        "meme",
+        "punjabi"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
