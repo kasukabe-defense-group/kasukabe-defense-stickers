@@ -1482,6 +1482,38 @@
         "funny"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "thumbs-up-kid",
+      "pack": "reactions",
+      "name": "Thumbs Up Kid",
+      "file": "packs/reactions/thumbs-up-kid.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "thumbs up",
+        "approve",
+        "good job",
+        "yes",
+        "excited"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "shy-kid-blush",
+      "pack": "reactions",
+      "name": "Shy Kid Blush",
+      "file": "packs/reactions/shy-kid-blush.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "shy",
+        "blush",
+        "awkward",
+        "cute",
+        "embarrassed"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
