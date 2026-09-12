@@ -1349,6 +1349,123 @@
         "based"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "doge-coin-dance",
+      "pack": "reactions",
+      "name": "Doge Coin Dance",
+      "file": "packs/reactions/doge-coin-dance.webp",
+      "type": "webp",
+      "tags": [
+        "doge",
+        "money",
+        "crypto",
+        "coins",
+        "dance",
+        "rich",
+        "celebration"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-pew-pew-hearts",
+      "pack": "praise",
+      "name": "Cat Pew Pew Hearts",
+      "file": "packs/praise/cat-pew-pew-hearts.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "love",
+        "hearts",
+        "pew pew",
+        "cute",
+        "flirty",
+        "affection"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "gas-cylinder-burden",
+      "pack": "roast",
+      "name": "Gas Cylinder Burden",
+      "file": "packs/roast/gas-cylinder-burden.webp",
+      "type": "webp",
+      "tags": [
+        "burden",
+        "struggle",
+        "meme",
+        "stick figure",
+        "heavy",
+        "carrying"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "batman-rain-sad",
+      "pack": "reactions",
+      "name": "Batman Rain Sad",
+      "file": "packs/reactions/batman-rain-sad.webp",
+      "type": "webp",
+      "tags": [
+        "batman",
+        "sad",
+        "rain",
+        "alone",
+        "dark",
+        "movie",
+        "dramatic"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-hug-mochi",
+      "pack": "praise",
+      "name": "Cat Hug Mochi",
+      "file": "packs/praise/cat-hug-mochi.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "hug",
+        "love",
+        "cat",
+        "mochi",
+        "wholesome",
+        "comfort"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "fooling-the-public",
+      "pack": "roast",
+      "name": "Fooling The Public",
+      "file": "packs/roast/fooling-the-public.webp",
+      "type": "webp",
+      "tags": [
+        "political satire",
+        "hindi",
+        "movie",
+        "sarcasm",
+        "corrupt",
+        "fooling",
+        "politics"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "anime-crying-leaves",
+      "pack": "reactions",
+      "name": "Anime Crying Leaves",
+      "file": "packs/reactions/anime-crying-leaves.webp",
+      "type": "webp",
+      "tags": [
+        "anime",
+        "crying",
+        "sad",
+        "dramatic",
+        "fall",
+        "defeated"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
