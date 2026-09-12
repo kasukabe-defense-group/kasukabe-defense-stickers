@@ -2071,6 +2071,150 @@
         "face"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "cat-scream-point",
+      "pack": "reactions",
+      "name": "Cat Scream Point",
+      "file": "packs/reactions/cat-scream-point.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "scream",
+        "yell",
+        "angry",
+        "pointing",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "heeeeheee-akshay",
+      "pack": "roast",
+      "name": "Heeeeheee Akshay",
+      "file": "packs/roast/heeeeheee-akshay.webp",
+      "type": "webp",
+      "tags": [
+        "akshay kumar",
+        "laughing",
+        "hindi",
+        "bollywood",
+        "funny",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "underground-hone-ka-samay",
+      "pack": "roast",
+      "name": "Underground Hone Ka Samay",
+      "file": "packs/roast/underground-hone-ka-samay.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "movie",
+        "meme",
+        "sarcasm",
+        "hide",
+        "scared"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "sad-cartoon-kid-walk",
+      "pack": "reactions",
+      "name": "Sad Cartoon Kid Walk",
+      "file": "packs/reactions/sad-cartoon-kid-walk.webp",
+      "type": "webp",
+      "tags": [
+        "cartoon",
+        "sad",
+        "dejected",
+        "walking",
+        "comic",
+        "gloomy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "anime-deadpan-red",
+      "pack": "reactions",
+      "name": "Anime Deadpan Red",
+      "file": "packs/reactions/anime-deadpan-red.webp",
+      "type": "webp",
+      "tags": [
+        "anime",
+        "deadpan",
+        "serious",
+        "red",
+        "stare",
+        "unimpressed"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "anime-girl-surprised",
+      "pack": "reactions",
+      "name": "Anime Girl Surprised",
+      "file": "packs/reactions/anime-girl-surprised.webp",
+      "type": "webp",
+      "tags": [
+        "anime",
+        "surprised",
+        "wide eyes",
+        "shock",
+        "cute",
+        "face"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "patrick-star-hearts",
+      "pack": "praise",
+      "name": "Patrick Star Hearts",
+      "file": "packs/praise/patrick-star-hearts.webp",
+      "type": "webp",
+      "tags": [
+        "patrick",
+        "spongebob",
+        "love",
+        "hearts",
+        "cute",
+        "cartoon"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "emoji-praying-thanks",
+      "pack": "praise",
+      "name": "Emoji Praying Thanks",
+      "file": "packs/praise/emoji-praying-thanks.webp",
+      "type": "webp",
+      "tags": [
+        "emoji",
+        "thanks",
+        "praying",
+        "grateful",
+        "memoji",
+        "hands"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-toilet-phone",
+      "pack": "roast",
+      "name": "Cat Toilet Phone",
+      "file": "packs/roast/cat-toilet-phone.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "toilet",
+        "phone",
+        "funny",
+        "bathroom",
+        "distracted"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
