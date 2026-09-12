@@ -1656,6 +1656,150 @@
         "swag"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "are-bhai-tum-bhi",
+      "pack": "roast",
+      "name": "Are Bhai Tum Bhi",
+      "file": "packs/roast/are-bhai-tum-bhi.webp",
+      "type": "webp",
+      "tags": [
+        "hindi",
+        "laughing",
+        "meme",
+        "roast",
+        "teasing",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "buff-hedgehog-flex",
+      "pack": "praise",
+      "name": "Buff Hedgehog Flex",
+      "file": "packs/praise/buff-hedgehog-flex.webp",
+      "type": "webp",
+      "tags": [
+        "buff",
+        "muscular",
+        "flex",
+        "sonic",
+        "gym",
+        "strong"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "sans-walk",
+      "pack": "reactions",
+      "name": "Sans Walk",
+      "file": "packs/reactions/sans-walk.webp",
+      "type": "webp",
+      "tags": [
+        "undertale",
+        "sans",
+        "game",
+        "chill",
+        "walking",
+        "skeleton"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "dem-purple-guy",
+      "pack": "reactions",
+      "name": "Dem Purple Guy",
+      "file": "packs/reactions/dem-purple-guy.webp",
+      "type": "webp",
+      "tags": [
+        "dem",
+        "purple",
+        "meme",
+        "stare",
+        "confused",
+        "big eyes"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "green-creature-blur",
+      "pack": "reactions",
+      "name": "Green Creature Blur",
+      "file": "packs/reactions/green-creature-blur.webp",
+      "type": "webp",
+      "tags": [
+        "creature",
+        "blurry",
+        "mysterious",
+        "sad",
+        "green",
+        "closeup"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "goat-laugh",
+      "pack": "reactions",
+      "name": "Goat Laugh",
+      "file": "packs/reactions/goat-laugh.webp",
+      "type": "webp",
+      "tags": [
+        "goat",
+        "laugh",
+        "funny",
+        "animal",
+        "teeth",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-yawn-wide",
+      "pack": "reactions",
+      "name": "Cat Yawn Wide",
+      "file": "packs/reactions/cat-yawn-wide.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "yawn",
+        "tired",
+        "funny",
+        "animal",
+        "mouth"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "blob-blush-hearts",
+      "pack": "praise",
+      "name": "Blob Blush Hearts",
+      "file": "packs/praise/blob-blush-hearts.webp",
+      "type": "webp",
+      "tags": [
+        "cute",
+        "love",
+        "blush",
+        "hearts",
+        "wholesome",
+        "shy"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "kitten-dance",
+      "pack": "reactions",
+      "name": "Kitten Dance",
+      "file": "packs/reactions/kitten-dance.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "kitten",
+        "dance",
+        "cute",
+        "funny",
+        "animal"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
