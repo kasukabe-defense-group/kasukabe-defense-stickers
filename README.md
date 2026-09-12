@@ -11,7 +11,7 @@ See [PRD.md](PRD.md) for the full design, the hard limits, and the decisions log
 
 ## Download (for teammates)
 
-**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.6/kasukabe-defense-stickers-v1.0.6.zip)**
+**[⬇ Download the extension](https://github.com/kasukabe-defense-group/kasukabe-defense-stickers/releases/download/v1.0.7/kasukabe-defense-stickers-v1.0.7.zip)**
 — click it, unzip, then see [Install](#install-all-of-chrome--edge--brave) below.
 
 Don't use GitHub's own "Source code (zip)" link if you see it on the Releases
@@ -106,6 +106,20 @@ be worked around on personal Gmail; see PRD.md §3.
    hours for jsDelivr's cache, or bump `@main` to a release tag).
 
 Tag well - 5 to 12 keywords - that's what the search box matches.
+
+## Shipping a CODE change (not just a sticker)
+
+Sticker data auto-updates for everyone already using the extension. Actual code
+changes (picker, sender, replacer, meetDom, manifest) do **not** - Chrome has no
+update mechanism for unpacked extensions, so everyone has to remove the old one
+and load a fresh download. Checklist for every code release:
+
+1. Bump `"version"` in `extension/manifest.json`.
+2. Bump `"latest"` (and `"notes"`) in `extension/version.json` to match - **this
+   is what makes the in-tray "a new version is out" banner appear** for people
+   still on the old code. Forgetting this step means nobody gets told.
+3. Commit, push, tag, build the release zip, publish it, update the README
+   download link.
 
 ## If the button doesn't appear or stickers don't send
 

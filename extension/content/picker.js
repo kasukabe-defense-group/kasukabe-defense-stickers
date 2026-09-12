@@ -11,6 +11,7 @@
   let anchorTimer = null;
   let activePack = "all";
   let lastQuery = "";
+  let updateInfo = null;
 
   const BTN_SIZE = 36;
   const TRAY_WIDTH = 340;
@@ -33,6 +34,11 @@
       box-shadow: 0 10px 34px rgba(0,0,0,.55); display: flex; flex-direction: column;
     }
     .tray[hidden] { display: none; }
+    .update {
+      background: #3a2f00; color: #ffd36b; font-size: 12px; line-height: 1.4;
+      padding: 8px 10px; border-bottom: 1px solid #4a3d00;
+    }
+    .update a { color: #ffd36b; font-weight: 700; text-decoration: underline; }
     .search {
       margin: 10px; padding: 8px 10px; border: 1px solid #3a3a44; border-radius: 8px;
       background: #26262c; color: #fff; font-size: 14px; outline: none;
@@ -128,6 +134,17 @@
     const idx = NS.library.index;
     tray.innerHTML = "";
 
+    if (updateInfo) {
+      const banner = document.createElement("div");
+      banner.className = "update";
+      const notes = updateInfo.notes ? ` — ${updateInfo.notes}` : "";
+      banner.innerHTML =
+        `🔔 A new version (${updateInfo.latest}) is out${notes}. ` +
+        `<a href="${updateInfo.releaseUrl}" target="_blank" rel="noopener">Get it from GitHub</a> ` +
+        `and reload the extension to update.`;
+      tray.appendChild(banner);
+    }
+
     const search = document.createElement("input");
     search.className = "search";
     search.type = "text";
@@ -200,7 +217,15 @@
   }
 
   function toggle() { open ? close() : openTray(); }
-  async function openTray() { open = true; tray.hidden = false; anchor(); await render(); anchor(); }
+  async function openTray() {
+    open = true; tray.hidden = false; anchor();
+    // Checked fresh on every open (cheap - one small file) so a release
+    // published while the tray was closed still gets noticed promptly,
+    // instead of waiting on the sticker-list cache to expire.
+    updateInfo = await NS.library.checkForUpdate().catch(() => null);
+    await render();
+    anchor();
+  }
   function close() { open = false; if (tray) tray.hidden = true; }
 
   function mount(ctx) {

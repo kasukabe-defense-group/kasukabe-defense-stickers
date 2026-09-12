@@ -112,5 +112,41 @@
     _index = null; _urlCache.clear();
   }
 
-  NS.library = { load, resolve, search, rawUrl, displayUrl, clearCache, get index() { return _index; } };
+  function isNewer(a, b) {
+    const pa = String(a || "0").split(".").map(Number);
+    const pb = String(b || "0").split(".").map(Number);
+    for (let i = 0; i < Math.max(pa.length, pb.length); i++) {
+      const x = pa[i] || 0, y = pb[i] || 0;
+      if (x !== y) return x > y;
+    }
+    return false;
+  }
+
+  // Checks a tiny version.json next to the sticker library for a newer CODE
+  // release. Only meaningful in CDN mode - local mode has no "repo" to check
+  // against. This can only ever *tell* someone a new version exists; nothing
+  // can auto-install it (see README - that's a hard Chrome limit on unpacked
+  // extensions, not something we can code around).
+  async function checkForUpdate() {
+    if (cfg.source !== "cdn") return null;
+    try {
+      const url = cfg.cdnBase.replace(/\/stickers$/, "") + "/version.json";
+      const res = await fetch(url, { cache: "no-cache" });
+      if (!res.ok) return null;
+      const data = await res.json();
+      const current = chrome.runtime.getManifest().version;
+      if (!isNewer(data.latest, current)) return null;
+      return {
+        current,
+        latest: data.latest,
+        notes: data.notes || "",
+        releaseUrl: data.releaseUrl || `https://github.com/${cfg.ghUser}/${cfg.repo}/releases/latest`,
+      };
+    } catch (e) {
+      NS.warn("update check failed:", e.message);
+      return null;
+    }
+  }
+
+  NS.library = { load, resolve, search, rawUrl, displayUrl, clearCache, checkForUpdate, get index() { return _index; } };
 })();
