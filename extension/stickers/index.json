@@ -1800,6 +1800,134 @@
         "animal"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "kids-hug-cute",
+      "pack": "praise",
+      "name": "Kids Hug Cute",
+      "file": "packs/praise/kids-hug-cute.webp",
+      "type": "webp",
+      "tags": [
+        "kids",
+        "hug",
+        "cute",
+        "wholesome",
+        "love",
+        "siblings"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "shiba-holding-stick",
+      "pack": "reactions",
+      "name": "Shiba Holding Stick",
+      "file": "packs/reactions/shiba-holding-stick.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "shiba",
+        "funny",
+        "derp",
+        "mouth",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "big-eyed-hamster",
+      "pack": "reactions",
+      "name": "Big Eyed Hamster",
+      "file": "packs/reactions/big-eyed-hamster.webp",
+      "type": "webp",
+      "tags": [
+        "hamster",
+        "cute",
+        "big eyes",
+        "stare",
+        "animal",
+        "tiny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "pepe-blessed-pray",
+      "pack": "praise",
+      "name": "Pepe Blessed Pray",
+      "file": "packs/praise/pepe-blessed-pray.webp",
+      "type": "webp",
+      "tags": [
+        "pepe",
+        "praying",
+        "blessed",
+        "halo",
+        "pray",
+        "meme"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-please-crying",
+      "pack": "reactions",
+      "name": "Cat Please Crying",
+      "file": "packs/reactions/cat-please-crying.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "please",
+        "crying",
+        "begging",
+        "emoji",
+        "sad"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cliff-jump-falling",
+      "pack": "roast",
+      "name": "Cliff Jump Falling",
+      "file": "packs/roast/cliff-jump-falling.webp",
+      "type": "webp",
+      "tags": [
+        "falling",
+        "give up",
+        "cliff",
+        "despair",
+        "meme",
+        "done"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cliff-edge-standing",
+      "pack": "reactions",
+      "name": "Cliff Edge Standing",
+      "file": "packs/reactions/cliff-edge-standing.webp",
+      "type": "webp",
+      "tags": [
+        "cliff",
+        "edge",
+        "thinking",
+        "about to give up",
+        "meme",
+        "hesitant"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "spiderman-pointing",
+      "pack": "roast",
+      "name": "Spiderman Pointing",
+      "file": "packs/roast/spiderman-pointing.webp",
+      "type": "webp",
+      "tags": [
+        "spiderman",
+        "pointing",
+        "meme",
+        "blame",
+        "same",
+        "confusion"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
