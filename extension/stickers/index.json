@@ -2918,6 +2918,166 @@
         "weird"
       ],
       "added": "2026-09-12"
+    },
+    {
+      "id": "kid-peace-sign-squint",
+      "pack": "reactions",
+      "name": "Kid Peace Sign Squint",
+      "file": "packs/reactions/kid-peace-sign-squint.webp",
+      "type": "webp",
+      "tags": [
+        "kid",
+        "peace sign",
+        "wink",
+        "cute",
+        "playful",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bear-party-dance-duo",
+      "pack": "praise",
+      "name": "Bear Party Dance Duo",
+      "file": "packs/praise/bear-party-dance-duo.webp",
+      "type": "webp",
+      "tags": [
+        "bear",
+        "party",
+        "dance",
+        "celebrate",
+        "cute",
+        "hats"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "baby-seal-cuddle",
+      "pack": "praise",
+      "name": "Baby Seal Cuddle",
+      "file": "packs/praise/baby-seal-cuddle.webp",
+      "type": "webp",
+      "tags": [
+        "seal",
+        "cute",
+        "baby animal",
+        "cuddle",
+        "wholesome",
+        "animal"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "mickey-minnie-argue",
+      "pack": "roast",
+      "name": "Mickey Minnie Argue",
+      "file": "packs/roast/mickey-minnie-argue.webp",
+      "type": "webp",
+      "tags": [
+        "mickey mouse",
+        "minnie",
+        "disney",
+        "argue",
+        "cartoon",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "bunny-laugh-wide",
+      "pack": "reactions",
+      "name": "Bunny Laugh Wide",
+      "file": "packs/reactions/bunny-laugh-wide.webp",
+      "type": "webp",
+      "tags": [
+        "bunny",
+        "laugh",
+        "funny",
+        "teeth",
+        "cartoon",
+        "silly"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "happy-crying-character",
+      "pack": "reactions",
+      "name": "Happy Crying Character",
+      "file": "packs/reactions/happy-crying-character.webp",
+      "type": "webp",
+      "tags": [
+        "happy",
+        "crying",
+        "tears",
+        "joy",
+        "cute",
+        "emotional"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "dog-patched-sweater",
+      "pack": "reactions",
+      "name": "Dog Patched Sweater",
+      "file": "packs/reactions/dog-patched-sweater.webp",
+      "type": "webp",
+      "tags": [
+        "dog",
+        "poor",
+        "struggling",
+        "patched",
+        "cute",
+        "sad"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "classic-cartoon-dance-bw",
+      "pack": "reactions",
+      "name": "Classic Cartoon Dance Bw",
+      "file": "packs/reactions/classic-cartoon-dance-bw.webp",
+      "type": "webp",
+      "tags": [
+        "cartoon",
+        "classic",
+        "dance",
+        "vintage",
+        "black and white",
+        "funny"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-crying-eating-bread",
+      "pack": "reactions",
+      "name": "Cat Crying Eating Bread",
+      "file": "packs/reactions/cat-crying-eating-bread.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "crying",
+        "eating",
+        "bread",
+        "comfort food",
+        "sad"
+      ],
+      "added": "2026-09-12"
+    },
+    {
+      "id": "cat-peeking-crying",
+      "pack": "reactions",
+      "name": "Cat Peeking Crying",
+      "file": "packs/reactions/cat-peeking-crying.webp",
+      "type": "webp",
+      "tags": [
+        "cat",
+        "crying",
+        "peeking",
+        "sad",
+        "blanket",
+        "tears"
+      ],
+      "added": "2026-09-12"
     }
   ]
 }
