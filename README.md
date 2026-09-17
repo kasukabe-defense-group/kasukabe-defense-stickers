@@ -33,12 +33,17 @@ Keep the unzipped folder where it is after installing — your browser keeps
 reading the extension straight from it. You won't need to repeat this unless
 you delete the folder.
 
+> ⚠️ **Already had a Google Meet tab open before installing?** Refresh that tab
+> now — the sticker button will **not** appear on a tab that was already open.
+> This is the #1 thing people get stuck on, not the install itself. A Meet tab
+> opened *after* installing works right away, no refresh needed.
+
 ## If the button doesn't appear or stickers don't send
 
-Refresh the Meet tab and make sure the chat panel is actually open. Still stuck?
-Open the sticker tray, press F12 for DevTools, click the Console tab, look for
-lines starting with `[KDS]`, and share what you see.
+Refresh the Meet tab (see above) and make sure the chat panel is actually open.
+Still stuck? Open the sticker tray, press F12 for DevTools, click the Console
+tab, look for lines starting with `[KDS]`, and share what you see.
 
 ---
 
-Maintaining or contributing to this repo? See [MAINTAINERS.md](MAINTAINERS.md).
+Repo/dev notes: see [MAINTAINERS.md](MAINTAINERS.md).

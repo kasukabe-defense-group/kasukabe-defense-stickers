@@ -36,9 +36,20 @@ HOW TO INSTALL (one time, ~2 minutes)
 
 7. Done. You don't need to repeat this unless you delete the folder.
 
+   ****************************************************************
+   * IMPORTANT: if you already had a Google Meet tab open BEFORE  *
+   * doing this install, REFRESH THAT TAB now (press F5).         *
+   * The sticker button will NOT appear on an already-open tab -  *
+   * this is the #1 thing people get stuck on, not the install    *
+   * itself. A fresh Meet tab opened after installing works right *
+   * away with no refresh needed.                                 *
+   ****************************************************************
+
 
 HOW TO USE IT
 --------------
+0. Already had Meet open before you installed this? Refresh that tab
+   first (see the box above) - otherwise skip to step 1.
 1. Go to meet.google.com and join/start a call.
 2. Open the in-call chat (the message icon).
 3. You'll see a small round button (looks like a bandage: 🩹) next to the
